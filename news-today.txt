@@ -1,3 +1,50 @@
+22.09.2026
+
+New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory
+https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html
+
+Anthropic-linked CVEs pile up, attackers mostly shrug
+Of 225 flaws found by Glasswing and tracked by VulnCheck researcher, just one has confirmed exploitation in the wild 
+https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018
+
+Google Fined €403 Million Over GDPR Violations Tied to Location Data
+https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html
+
+Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR
+https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html
+
+SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE
+https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html
+
+New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups
+https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html
+
+Gartner predicts 55% of enterprise VMware users will be investigating an exit by 2029
+Chasing pack has its problems too, with maturity, cost, and complex licenses 
+https://www.theregister.com/virtualization/2026/09/22/gartner-predicts-55-of-enterprise-vmware-users-will-be-investigating-an-exit-by-2029/5298043
+
+Longtime SUSE staff asked if they'd opt for 'voluntary separation' 
+Other changes also afoot as employees unionize and the distro itself sees modifications 
+https://www.theregister.com/software/2026/09/22/longtime-suse-staff-asked-if-theyd-opt-for-voluntary-separation/5297457
+
+Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal
+https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html
+
+Commodore's forgotten Amiga Unix gets a modern revival
+Amix gains newer CPU support and a package manager as Open Look joins the retro comeback 
+https://www.theregister.com/software/2026/09/22/commodores-forgotten-amiga-unix-gets-a-modern-revival/5297805
+
+Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access
+https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html
+
+Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto
+https://thehackernews.com/2026/09/contagious-interview-campaign.html
+
+WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session
+https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html
+
+----------------------------------------------------
+
 21.09.2026
 
 Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation
