@@ -1,3 +1,73 @@
+24.09.2026
+
+Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry
+https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html
+
+Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content
+https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html
+
+A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You
+https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html
+
+Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape
+https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html
+
+F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers
+https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html
+
+Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks
+https://thehackernews.com/2026/09/check-point-warns-of-management-server.html
+
+Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates
+https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html
+
+Talk of AI in KDE sets the community ablaze
+A desktop pitch and an attempt to curb LLM slop descended into very human mayhem 
+https://www.theregister.com/software/2026/09/24/talk-of-ai-in-kde-sets-the-community-ablaze/5298854
+
+Thoughts return to forbidden RAM upgrades as Raspberry Pi OS gets fresh lick of paint
+New dock and app launcher arrive while soaring memory prices revive scrutiny of a two-year-old firmware restriction 
+https://www.theregister.com/systems/2026/09/23/thoughts-return-to-forbidden-ram-upgrades-as-raspberry-pi-os-gets-fresh-lick-of-paint/5298600
+
+Private Space are no place for a banking app
+Customers say the unannounced change also cut off web access that relied on mobile authentication 
+https://www.theregister.com/applications/2026/09/24/hsbc-decides-samsung-secure-folder-and-androids-private-space-are-no-place-for-a-banking-app/5298542
+
+Qualcomm Announces Snapdragon X2 Series Processors Will Support Linux
+https://www.qualcomm.com/developer/blog/2026/09/announcing-linux-on-snapdragon-x2-series-early-developer-preview
+
+Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises
+https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html
+https://yro.slashdot.org/story/26/09/23/0621252/microsoft-helps-take-down-massive-automated-ai-powered-phishing-as-a-service-platform
+https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html
+
+Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input
+https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html
+
+New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control
+https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html
+
+Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI
+https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html
+
+Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure
+https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html
+https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html
+
+Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware
+https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html
+
+Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls
+https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html
+
+OpenAI, Anthropic CEOs Urge UN Countries to Cooperate on AI Safety Standards
+https://slashdot.org/story/26/09/24/0338213/openai-anthropic-ceos-urge-un-countries-to-cooperate-on-ai-safety-standards
+
+MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key
+https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html
+
+------------------------------------------------
+
 22.09.2026
 
 New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory
