@@ -1,3 +1,91 @@
+29.09.2026
+
+After 40 Years, Microsoft Excel Will Add Single-Cell Lists and Arrays
+https://slashdot.org/story/26/09/26/0227226/after-40-years-microsoft-excel-will-add-single-cell-lists-and-arrays
+
+Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix
+https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/
+
+Fresh CSS constructs move web design beyond ticky-tacky little boxes
+Let us bury the web's 30-year layout reliance on rectangles 
+https://www.theregister.com/devops/2026/09/29/fresh-css-constructs-move-web-design-beyond-ticky-tacky-little-boxes/5299614
+
+AMD Acquires Fei-Fei Li's World Labs For $8.2 Billion
+https://slashdot.org/story/26/09/28/2042235/amd-acquires-fei-fei-lis-world-labs-for-82-billion
+
+AI Finds So Many Linux Bugs, Canonical Changes to a Two-Week Stable Release Update Cycle 
+https://news.slashdot.org/story/26/09/26/0559227/ai-finds-so-many-linux-bugs-canonical-changes-to-a-two-week-stable-release-update-cycle
+
+Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware
+https://thehackernews.com/2026/09/compromised-github-actions-came-back.html
+
+SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild
+https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html
+
+Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent
+https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html
+
+Google ending ChromeOS support two years early
+Rise of the Googlebook means ChromeOS users get eight years' support, not a decade 
+https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674
+
+JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources
+https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html
+
+Apple patches CoreGraphics zero-day already exploited in targeted attacks
+Meta-spotted flaw could hand attackers arbitrary code execution via a maliciously crafted file 
+https://www.theregister.com/security/2026/09/29/apple-patches-coregraphics-zero-day-already-exploited-in-targeted-attacks/5299721
+
+Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials
+https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html
+
+101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent
+https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html
+
+Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks
+https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html
+
+Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats
+https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html
+
+Dutch government turns to NixOS for a sovereign desktop
+DAWO combines a Linux-based client with open source tools for cloud, communications, and collaborative work 
+https://www.theregister.com/os-platforms/2026/09/28/dutch-government-turns-to-nixos-for-a-sovereign-desktop/5299501
+
+Meta Taps MongoDB CEO Desai to Drive Enterprise AI Push 
+https://developers.slashdot.org/story/26/09/28/1743253/meta-taps-mongodb-ceo-desai-to-drive-enterprise-ai-push
+
+KDE and GNOME Developers Ponder How to Handle AI-Generated Contributions 
+https://tech.slashdot.org/story/26/09/24/1928229/kde-and-gnome-developers-ponder-how-to-handle-ai-generated-contributions
+
+Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells
+https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html
+
+RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims
+https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html
+
+CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally
+https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html
+https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.htmlhttps://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html
+
+Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M
+https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html
+
+Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link
+https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html
+-------------------------------------------------
+
+25.09.2026
+
+F-Droid app store thumbs its nose at Google's dev crackdown
+The Chocolate Factory is tightening the screws on Android sideloading, but the FOSS app market is rolling out a huge overhaul and planning for the future 
+https://www.theregister.com/applications/2026/09/24/f-droid-app-store-thumbs-its-nose-at-googles-dev-crackdown/5298974
+https://news.slashdot.org/story/26/09/25/0344225/f-droid-20-foss-android-appstore-continues-updating-despite-googles-pending-developer-verification-plan
+
+Raspberry Pi Stock Jumps 30% as Demand Surges. (And Boards Now Locked to Their Original RAM Size) 
+https://hardware.slashdot.org/story/26/09/25/0554208/raspberry-pi-stock-jumps-30-as-demand-surges-and-boards-now-locked-to-their-original-ram-size
+------------------------------------------------
+
 24.09.2026
 
 Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry
