@@ -11,6 +11,9 @@ Met Police suspends use of phone-hacking software over Russian links
 Scotland Yard hits pause after US prosecutors trace supposedly American tech back to Moscow 
 https://www.theregister.com/software/2026/10/02/met-police-suspends-use-of-phone-hacking-software-over-russian-links/5300549
 
+Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes
+https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html
+
 Once a $35 computer, the 2 GB Raspberry Pi 4 now costs $67.50
 Pi 5 also gets a $12.50 bump as customers urged to consider older models or less RAM 
 https://www.theregister.com/personal-tech/2026/10/02/once-a-35-computer-the-2-gb-raspberry-pi-4-now-costs-6750/5300774
@@ -27,6 +30,7 @@ https://yro.slashdot.org/story/26/10/01/1720206/ftc-is-investigating-openai-anth
 OpenAI shows three staff the door over alleged information misuse
 Two safety researchers and a program manager dismissed, company denies retaliation for raising concerns 
 https://www.theregister.com/ai-and-ml/2026/10/02/openai-shows-three-staff-the-door-over-alleged-information-misuse/5300820
+https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html
 
 Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing
 Your invite to a fake AI policy advisory committee has strings attached 
