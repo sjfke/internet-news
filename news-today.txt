@@ -1,3 +1,121 @@
+02.10.2026
+
+Microsoft makes Windows settings backup the default in 26H2
+Annual update installed. You're up to date, so nothing seems to have changed. Wait a minute... 
+https://www.theregister.com/os-platforms/2026/10/01/microsoft-makes-windows-settings-backup-the-default-in-26h2/5300552
+
+HP's Answer to the MacBook Neo Is Thinner, Lighter, and Comes With OLED 
+https://hardware.slashdot.org/story/26/10/01/1514239/hps-answer-to-the-macbook-neo-is-thinner-lighter-and-comes-with-oled
+
+Met Police suspends use of phone-hacking software over Russian links
+Scotland Yard hits pause after US prosecutors trace supposedly American tech back to Moscow 
+https://www.theregister.com/software/2026/10/02/met-police-suspends-use-of-phone-hacking-software-over-russian-links/5300549
+
+Once a $35 computer, the 2 GB Raspberry Pi 4 now costs $67.50
+Pi 5 also gets a $12.50 bump as customers urged to consider older models or less RAM 
+https://www.theregister.com/personal-tech/2026/10/02/once-a-35-computer-the-2-gb-raspberry-pi-4-now-costs-6750/5300774
+
+Cloudflare tries to outplay Jev with open-weight Clef models
+Sure, it costs more, but it can handle images and video and it's available on Hugging Face if you have the hardware horsepower to run it locally 
+https://www.theregister.com/ai-and-ml/2026/10/01/cloudflare-tries-to-outplay-jev-with-open-weight-clef-models/5300649
+
+OpenAI Alerts More Than 100 Groups About Rogue AI Agent Activity
+https://it.slashdot.org/story/26/10/02/0226205/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity
+https://openai.com/hugging-face-incident-and-misalignment/
+https://yro.slashdot.org/story/26/10/01/1720206/ftc-is-investigating-openai-anthropic-and-other-ai-companies-over-product-risks
+
+OpenAI shows three staff the door over alleged information misuse
+Two safety researchers and a program manager dismissed, company denies retaliation for raising concerns 
+https://www.theregister.com/ai-and-ml/2026/10/02/openai-shows-three-staff-the-door-over-alleged-information-misuse/5300820
+
+Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing
+Your invite to a fake AI policy advisory committee has strings attached 
+https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595
+
+Power approval set to delay Oracle's Wisconsin AI datacenter
+Grid connection awaits regulatory approval, putting planned 2027 customer delivery at risk 
+https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832
+---------------------------------------------------------
+
+01.10.2026
+
+OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted
+https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html
+
+Azure maintenance mess disrupted hybrid clouds, VPNs, cloudy VMware services
+Microsoft broke its own cloud but isn’t sure how 
+https://www.theregister.com/off-prem/2026/10/01/azure-maintenance-mess-disrupted-hybrid-clouds-vpns-cloudy-vmware-services/5300333
+
+Exchange Web Services enters the final stretch before Microsoft pulls access
+Legacy API begins disappearing from tenants today, with no exceptions after April 
+https://www.theregister.com/saas/2026/10/01/exchange-web-services-enters-the-final-stretch-before-microsoft-pulls-access/5300458
+
+Microsoft Makes Linux Containers Native On Windows 11 
+https://linux.slashdot.org/story/26/09/29/1858218/microsoft-makes-linux-containers-native-on-windows-11
+https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/
+
+Spectre bug is back, this time to haunt JIT engines
+Researchers find a way to recover stale indirect branch prediction entries 
+https://www.theregister.com/security/2026/09/30/spectre-bug-is-back-this-time-to-haunt-jit-engines/5299937
+https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html
+
+Canonical begins pushing Resolute Raccoon
+Users on Ubuntu 24.04 will begin to get nagged to update to 26.04.1. Here's how to proceed 
+https://www.theregister.com/os-platforms/2026/09/30/canonical-begins-pushing-resolute-raccoon/5300225
+
+RAM supply set to worsen, says Micron, as CEO celebrates ‘much higher’ prices
+Posts huge leaps in revenue, profit, and margin, with more to come 
+https://www.theregister.com/systems/2026/10/01/ram-supply-set-to-worsen-says-micron-as-ceo-celebrates-much-higher-prices/5300346
+
+Firefox Redesign Brings Round Tabs, New Themes, and Compact Mode 
+https://mobile.slashdot.org/story/26/09/29/194251/firefox-redesign-brings-round-tabs-new-themes-and-compact-mode
+https://www.theregister.com/software/2026/09/30/firefox-157-could-bold-new-look-be-just-what-mozilla-needs/5300059
+
+Google Says Chromebook Updates End In 2034, 'Many' Models Move to Googlebook OS
+https://tech.slashdot.org/story/26/09/29/0538225/google-says-chromebook-updates-end-in-2034-many-models-move-to-googlebook-os
+
+AI market needs to make $6 trillion a year by 2031 to fund its infrastructure habit
+That's the amount of economic value AI will have to deliver to justify all the investment 
+https://www.theregister.com/ai-and-ml/2026/09/30/ai-market-needs-to-make-6-trillion-a-year-by-2031-to-fund-its-infrastructure-habit/5300175
+
+Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager
+https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html
+https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html
+
+Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path
+https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html
+
+Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets
+https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html
+
+Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures
+https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html
+
+US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access
+https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html
+
+Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs
+https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html
+
+Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT
+https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html
+
+Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution
+https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html
+
+Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks
+https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html
+
+OpenClaw slips on a suit to evade widespread business bans
+Red Hat, Nvidia, OpenAI and friends are working on an enterprise edition they say is ‘Kubernetes for agents’ 
+https://www.theregister.com/ai-and-ml/2026/09/30/openclaw-slips-on-a-suit-to-evade-widespread-business-bans/5299962
+
+Huawei boss claims homegrown AI chip sales top Nvidia in China 
+The chips may not be as advanced, but they won't get banned at a moment's notice, Eric Xu says 
+https://www.theregister.com/systems/2026/09/30/huawei-boss-claims-homegrown-ai-chip-sales-top-nvidia-in-china/5300266
+
+--------------------------------------------------------
+
 29.09.2026
 
 After 40 Years, Microsoft Excel Will Add Single-Cell Lists and Arrays
