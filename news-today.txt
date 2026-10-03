@@ -1,3 +1,27 @@
+03.10.2026
+
+GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers
+https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html
+
+Google hearts Apple's Swift so much it's pumping out server-side support
+After a decade of false starts, Swift is showing backend appeal 
+https://www.theregister.com/software/2026/10/02/google-hearts-apples-swift-so-much-its-pumping-out-server-side-support/5300921
+
+Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes
+https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html
+
+Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents
+https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/
+https://hardware.slashdot.org/story/26/10/02/2056223/apple-tightens-macos-full-disk-access-controls-as-ai-agents-substantially-increase-risk
+
+Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign
+https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html
+
+Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware
+https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html
+
+--------------------------------------------
+
 02.10.2026
 
 Microsoft makes Windows settings backup the default in 26H2
