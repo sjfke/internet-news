@@ -1,3 +1,48 @@
+05.10.2026
+
+Windows 11 market share creeps upwards as cost of staying on Windows 10 set to double
+How badly do you want that Win10 device to keep getting security updates? 
+https://www.theregister.com/os-platforms/2026/10/05/windows-11-market-share-creeps-upwards-as-cost-of-staying-on-windows-10-set-to-double/5300870
+
+Ubuntu 'Stonking Stingray' beta swims out: Deeper Rust 'oxidization' plus LLM speech-to-text
+GNOME 51 is here, and Ubuntu interim releases are getting interesting again 
+https://www.theregister.com/os-platforms/2026/10/05/ubuntu-stonking-stingray-beta-swims-out-deeper-rust-oxidization-plus-llm-speech-to-text/5301023
+
+Debian's latest kernel security update has 1,313 reasons to patch
+AI-assisted bug hunting adds to maintainers' workload, while broad CVE rules help explain the sprawling tally 
+https://www.theregister.com/os-platforms/2026/10/05/debians-latest-kernel-security-update-has-1313-reasons-to-patch/5301124
+
+Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows
+Exploitation attempts came from China-hosted IP, VulnCheck researcher says 
+https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933
+
+New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline
+https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html
+
+How Python Will Test Adding Rust Into CPython
+https://developers.slashdot.org/story/26/10/04/2034229/how-python-will-test-adding-rust-into-cpython
+
+Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access
+https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html
+GC: see https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/
+
+FSF Sponsors 'GNU Boot', a Libre, Ethical Replacement for Nonfree BIOS Or UEFI
+https://news.slashdot.org/story/26/10/03/1713227/fsf-sponsors-gnu-boot-a-libre-ethical-replacement-for-nonfree-bios-or-uefi
+
+Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE
+https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html
+
+China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing
+https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html
+
+Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2
+https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html
+
+Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests
+https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html
+
+-----------------------------------------------
+
 03.10.2026
 
 GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers
