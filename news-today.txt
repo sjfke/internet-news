@@ -1,3 +1,38 @@
+06.10.2026
+
+Classic Outlook clings to stale search results as Microsoft works on a fix
+Moved messages linger and throw errors when clicked, leaving Windows Desktop Search as the workaround 
+https://www.theregister.com/software/2026/10/06/classic-outlook-clings-to-stale-search-results-as-microsoft-works-on-a-fix/5301313
+
+Atlassian warns of critical file access flaw in its datacenter products
+Tells users ‘action required’ – but maybe don’t make that action a Jira ticket, because it has this bug 
+https://www.theregister.com/security/2026/10/06/atlassian-warns-of-critical-file-access-flaw-in-its-datacenter-products/5301284
+https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html
+
+LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings
+https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html
+
+Citrix NetScaler security snafus get even worse amid more 0-day reports
+The new vuln, CVE-2026-88779, is a memory overflow bug that leads to denial of service 
+https://www.theregister.com/security/2026/10/05/citrix-netscaler-security-snafus-get-even-worse-amid-more-0-day-reports/5301232
+
+Zombie instructions on carefully constructed web pages could trick GitHub Copilot CLI into sharing secrets
+Run the CLI in autopilot mode and take your chances 
+https://www.theregister.com/ai-and-ml/2026/10/06/zombie-instructions-on-carefully-constructed-web-pages-could-trick-github-copilot-cli-into-sharing-secrets/5301206
+
+Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports
+https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html
+
+OpenAI Is Adding Text Watermarking In ChatGPT and Codex
+https://slashdot.org/story/26/10/06/0443237/openai-is-adding-text-watermarking-in-chatgpt-and-codex
+https://www.theregister.com/ai-and-ml/2026/10/06/openai-rolls-out-weak-sauce-watermarking-for-ai-text/5301257
+
+Mac Users Reclaim 12GB+ of Storage With Apple Intelligence Removal Tool 
+https://hardware.slashdot.org/story/26/10/05/1747205/mac-users-reclaim-12gb-of-storage-with-apple-intelligence-removal-tool
+https://www.theregister.com/ai-and-ml/2026/10/05/get-rid-of-apples-ai-bloatware-and-reclaim-12-gb-of-storage-with-this-open-source-tool/5301213
+
+--------------------------------------------------------
+
 05.10.2026
 
 Windows 11 market share creeps upwards as cost of staying on Windows 10 set to double
