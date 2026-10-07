@@ -1,3 +1,49 @@
+07.10.2026
+
+Microsoft defines its Azure instance lifecycle, without any info about timing
+Redmond explains how VMs die, but not when you can expect that to happen 
+https://www.theregister.com/off-prem/2026/10/07/microsoft-defines-its-azure-instance-lifecycle-without-any-info-about-timing/5301526
+
+Microsoft extends the Outlook naughty step with two more file types
+You didn't really want to be sending around .msix and .msixbundle files, did you? 
+https://www.theregister.com/software/2026/10/06/microsoft-extends-the-outlook-naughty-step-with-two-more-file-types/5301350
+
+Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details
+https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html
+
+IBM and Red Hat Find More Than 400 New Vulnerabilities In Popular Java Code
+https://it.slashdot.org/story/26/10/06/1854244/ibm-and-red-hat-find-more-than-400-new-vulnerabilities-in-popular-java-code
+
+Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan
+https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html
+
+SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances
+https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html
+
+Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes
+https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html
+
+Licensing Costs Driving 90% of VMware Users To Explore Options, Survey Finds 
+https://slashdot.org/story/26/10/06/1649245/licensing-costs-driving-90-of-vmware-users-to-explore-options-survey-finds
+
+FortiBleed still a bleeding nuisance as FBI confirms ongoing attacks
+Tens of thousands more victims and more ransomware groups getting in on the act 
+https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585
+https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html
+
+Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws
+https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html
+
+Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely
+https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html
+
+PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet
+https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html
+
+South Korea Says AI Agents May Have Been Used to Hack the Country's Banks
+https://news.slashdot.org/story/26/10/07/0313242/south-korea-says-ai-agents-may-have-been-used-to-hack-the-countrys-banks
+------------------------------------------------------
+
 06.10.2026
 
 Classic Outlook clings to stale search results as Microsoft works on a fix
