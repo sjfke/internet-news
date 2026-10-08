@@ -1,3 +1,64 @@
+08.10.2026
+
+Chrome 155 Ships Decoding Support For JPEG XL 24 
+https://slashdot.org/story/26/10/07/160253/chrome-155-ships-decoding-support-for-jpeg-xl
+
+Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia
+https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html
+
+Rust upstart reveals 'reimplementation' of Microsoft Office – with Claude on coding duty
+ArtCraft adds Word, Excel, and PowerPoint lookalikes to its open source lineup, but they're not ready for produ
+https://www.theregister.com/software/2026/10/08/rust-upstart-reveals-reimplementation-of-microsoft-office-with-claude-on-coding-duty/5301952
+
+IBM offloads 'hundreds' of its cloudy VMware customers
+Broadcom partner 11:11 picks ‘em up ahead of channel death deadline 
+https://www.theregister.com/virtualization/2026/10/08/ibm-offloads-hundreds-of-its-cloudy-vmware-customers/5301849
+
+ICANN reveals bids for new top-level domains 
+Big tech has piled in with plenty of asks, but faces a fight as eight applicants want .api and seven seek .agi 
+https://www.theregister.com/networks/2026/10/08/icann-reveals-bids-for-new-top-level-domains/5301857
+
+Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm
+https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html
+
+Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains
+https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html
+
+Windows Search learns to take orders
+Preview lets users change settings and carry out tasks directly from a tidier results list 
+https://www.theregister.com/os-platforms/2026/10/08/windows-search-learns-to-take-orders/5301902
+
+Singapore’s central bank wants all FinTech AI use cases subject to independent review
+Failures of third-party services no excuse for island nation’s financial sector 
+https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798
+
+ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms
+https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html
+
+Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer
+https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html
+
+16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases
+https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html
+
+Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks
+https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html
+
+Samsung eyes $80B quarterly profit as memory buyers pay the price
+AI demand fattens chipmakers' margins while cheaper PCs and phones become harder to produce profita
+https://www.theregister.com/systems/2026/10/08/samsung-eyes-80b-quarterly-profit-as-memory-buyers-pay-the-price/5301933
+
+Microsoft and Nvidia Unveil Surface Laptop Ultra For $2,599
+https://hardware.slashdot.org/story/26/10/07/1812223/microsoft-and-nvidia-unveil-surface-laptop-ultra-for-2599
+https://www.theregister.com/offbeat/2026/10/08/microsoft-unveils-surace-laptop-ultra/5301882
+https://www.theregister.com/personal-tech/2026/10/07/microsoft-n1xes-intel-in-favor-of-nvidias-shiny-new-socs-in-surface-laptop-ultra/5301722
+https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/
+
+CrowdStrike finds possible bank hacker's CV among exposed AI logs
+Suspected Chinese speaker used Claude Code and agentic pentesting tool ARTEX in attacks on South Korean lenders 
+https://www.theregister.com/cyber-crime/2026/10/08/crowdstrike-finds-possible-bank-hackers-cv-among-exposed-ai-logs/5301908
+--------------------------------------------------
+
 07.10.2026
 
 Microsoft defines its Azure instance lifecycle, without any info about timing
