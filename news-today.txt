@@ -1,3 +1,65 @@
+09.10.2026
+
+So long, Spokes: GitHub rewrites storage to restore reliability, just in time for agentic hordes
+Octocats claim 35x write improvement 
+https://www.theregister.com/devops/2026/10/09/so-long-spokes-github-rewrites-storage-to-restore-reliability-just-in-time-for-agentic-hordes/5302148
+
+Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects
+https://thehackernews.com/2026/10/anthropic-launches-free-ai.html
+
+Credential-stealing malware detected within minutes of npm release, but impact remains unknown 
+https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054
+
+Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill
+Vegalabs says $21,168 in unused Azure credits expired as separate Marketplace charges piled up 
+https://www.theregister.com/paas-and-iaas/2026/10/09/microsoft-and-anthropic-play-invoice-tennis-with-startups-17600-claude-bill/5302041
+
+Shai-Hulud worm makes jump to AI infrastructure with Tensorlake compromise
+Credential-stealing malware detected within minutes of npm release, but impact remains unknown 
+https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054
+
+Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments
+https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html
+https://www.theregister.com/security/2026/10/09/citrix-gives-netscaler-admins-another-critical-reason-to-patch/5302212
+
+High-severity Nvidia bug could crash GPU monitoring on exposed servers
+The GPU giant released a fix for the flaw, tracked as CVE-2026-47483 
+https://www.theregister.com/security/2026/10/08/high-severity-nvidia-bug-could-crash-gpu-monitoring-on-exposed-servers/5302077
+
+Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access
+https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html
+
+GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys
+https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html
+
+TP-Link Sued by Four More U.S. States Over Router Security and China Ties
+https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html
+
+FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions
+https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html
+
+Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own
+https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html
+
+Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies
+https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html
+
+US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers
+https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/
+
+Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge
+https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html
+
+India’s tech giants shrug off changes to USA’s skilled visa program
+As Microsoft denies alleged ‘fraud and abuse’ that sparked the tweaks 
+https://www.theregister.com/legal/2026/10/09/indias-tech-giants-shrug-off-changes-to-usas-skilled-visa-program/5302154
+
+TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal
+Advanced packaging tech is essential to the domestic production of high-performance semiconductors used in AI datacenters 
+https://www.theregister.com/systems/2026/10/08/tsmc-taps-globalfoundries-to-bolster-us-silicon-interposer-production-in-2b-deal/5302061
+
+------------------------------------------
+
 08.10.2026
 
 Chrome 155 Ships Decoding Support For JPEG XL 24 
