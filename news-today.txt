@@ -1,3 +1,52 @@
+12.10.2026
+
+Let's Encrypt to Cut SSL Certificate Lifetimes to 64 Days in February 2027 
+https://it.slashdot.org/story/26/10/12/0211238/lets-encrypt-to-cut-ssl-certificate-lifetimes-to-64-days-in-february-2027
+
+Ubuntu 26.10 Will Offer a Rust-based GnuPG Replacement Option 
+https://linux.slashdot.org/story/26/10/10/2155227/ubuntu-2610-will-offer-a-rust-based-gnupg-replacement-option
+
+When you just need to build a tiny desktop app: TinyJS
+How a micro JavaScript runtime uses native OS webviews to shrink the desktop footprint. 
+https://www.theregister.com/devops/2026/10/12/when-you-just-need-to-build-a-tiny-desktop-app-tinyjs/5302502
+
+Ubuntu Confirms Thursday's Distributed Denial of Service Attack Against Its Web Infrastructure 
+https://news.slashdot.org/story/26/10/11/0142235/ubuntu-confirms-thursdays-distributed-denial-of-service-attack-against-its-web-infrastructure
+
+Microsoft giveth and Microsoft taketh away: Copilot edition
+Office documents in Copilot? Absolutely! Using Copilot to make Outlook themes? Nah… 
+https://www.theregister.com/applications/2026/10/12/microsoft-giveth-and-microsoft-taketh-away-copilot-edition/5302542
+
+Raspberry Pi Desktop catches up with Debian 13 after 4-year wait
+Want a lightweight GUI OS for an old PC? Try this first 
+https://www.theregister.com/os-platforms/2026/10/12/raspberry-pi-desktop-catches-up-with-debian-13-after-4-year-wait/5301693
+
+Pigeon-powered internet packet goes under the hammer at Christie's
+25 years after taking flight, a surviving packet from the world's most impractical network has attracted a $4,000 bid 
+https://www.theregister.com/offbeat/2026/10/12/pigeon-powered-internet-packet-goes-under-the-hammer-at-christies/5302526https://www.theregister.com/offbeat/2026/10/12/pigeon-powered-internet-packet-goes-under-the-hammer-at-christies/5302526
+https://www.rfc-editor.org/info/rfc1149/
+
+Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch
+https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html
+
+Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE
+https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html
+
+UCLA settles Oracle ERP dispute with $3.1M in credits and $1.31M wiped off the bill
+University alleged cloud software couldn't meet its needs after years of delays to financial systems overhaul 
+https://www.theregister.com/saas/2026/10/12/ucla-settles-oracle-erp-dispute-with-31m-in-credits-and-131m-wiped-off-the-bill/5302520
+
+FBI Arrests Cybersecurity Executive Over Data Breach After Contractor Fails to Update Oracle HR Platform
+https://it.slashdot.org/story/26/10/11/0157259/fbi-arrests-cybersecurity-executive-over-data-breach-after-contractor-fails-to-update-oracle-hr-platform
+
+CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records
+https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html
+
+Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports
+https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html
+
+------------------------------------------------
+
 10.10.2026
 
 Microsoft 365 subscribers set to lose up to 4 TB of OneDrive storage
