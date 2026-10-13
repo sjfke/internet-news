@@ -1,3 +1,40 @@
+10.10.2026
+
+Microsoft 365 subscribers set to lose up to 4 TB of OneDrive storage
+What Microsoft giveth, Microsoft taketh away, again and again 
+https://www.theregister.com/personal-tech/2026/10/09/microsoft-365-subscribers-set-to-lose-up-to-4-tb-of-onedrive-storage/5302380
+
+Stack Overflow survey finds devs hooked on AI, but not totally sold on its judgment
+Source attribution matters to 79% of respondents – handy for a company licensing its Q&A archive to model builders 
+https://www.theregister.com/software/2026/10/10/stack-overflow-survey-finds-devs-hooked-on-ai-but-not-totally-sold-on-its-judgment/5301662
+
+Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories
+https://thehackernews.com/2026/10/credential-stealing-github-actions.html
+
+Meta Developing Compressed RAM 'CRAM' For Linux: Better Than ZRAM and Zswap? 
+https://hardware.slashdot.org/story/26/10/10/0631257/meta-developing-compressed-ram-cram-for-linux-better-than-zram-and-zswap
+
+Oracle lets AI agents do the work, provided you stay in Big Red's world
+Analysts welcome Fusion Claw's tighter controls but warn of early adoption and cloud lock-in 
+https://www.theregister.com/ai-and-ml/2026/10/09/oracle-lets-ai-agents-do-the-work-provided-you-stay-in-big-reds-world/5302270
+
+Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws
+https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html
+https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/
+
+Two characters open up a world of typosquatting opportunities in Chromium browsers
+Attackers abusing rare Cyrillic and Latin letters to impersonate popular websites 
+https://www.theregister.com/security/2026/10/10/two-characters-open-up-a-world-of-typosquatting-opportunities-in-chromium-browsers/5302383
+
+P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands
+https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html
+
+Global PC shipments crater 20% as rising prices hammer demand
+Buyers rushed to beat hikes earlier this year, but demand has since dried up as AI-fueled component shortages send costs soaring 
+https://www.theregister.com/personal-tech/2026/10/09/global-pc-shipments-crater-20-as-rising-prices-hammer-demand/5302264
+
+------------------------------------------------------
+
 09.10.2026
 
 So long, Spokes: GitHub rewrites storage to restore reliability, just in time for agentic hordes
