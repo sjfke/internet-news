@@ -1,3 +1,30 @@
+13.10.2026
+
+
+Firefox 158 Now Available With JPEG-XL Support By Default
+https://news.slashdot.org/story/26/10/12/2131234/firefox-158-now-available-with-jpeg-xl-support-by-default
+
+Q3 2026 Was Historically Bad For PC Shipments
+https://hardware.slashdot.org/story/26/10/12/0134221/q3-2026-was-historically-bad-for-pc-shipments
+
+Windows 11's easiest account bypass gets the Microsoft boot
+'Learn More' shortcut to local setup reportedly patched server-side, leaving users with more involved workarounds 
+https://www.theregister.com/os-platforms/2026/10/12/windows-11s-easiest-account-bypass-gets-the-microsoft-boot/5302643
+
+new tools to manage the flood
+It's 2026 and Virtzilla reckons it's OK to pay for MFA 
+https://www.theregister.com/virtualization/2026/10/13/vmware-is-pushing-so-many-patches-it-thinks-users-need-new-tools-to-manage-the-flood-1/5302172
+
+Intel optimizes IPv6 networking into nothingness, say users
+Customers report connectivity strangeness in the Intel Connectivity Performance Suite 
+https://www.theregister.com/networks/2026/10/13/intel-optimizes-ipv6-networking-into-nothingness-say-users/5302622
+
+'123456' password linked to Denmark data breach affecting 8.8M people
+Local media reports three weakly protected accounts at small IT biz whose access to national register was abused 
+https://www.theregister.com/security/2026/10/13/123456-password-linked-to-denmark-data-breach-affecting-88m-people/5302726
+
+---------------------------------------------------
+
 12.10.2026
 
 Let's Encrypt to Cut SSL Certificate Lifetimes to 64 Days in February 2027 
