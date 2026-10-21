@@ -1,3 +1,36 @@
+19.10.2026
+
+Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking
+Party like it’s CVE-2026-99999 – a 9.3-rated nasty called PwnEscape 
+https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744
+
+GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories
+https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html
+
+Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor
+https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html
+
+Admin: 'I spent all weekend on my servers' after Microsoft breaks Exchange Server with October updates
+OWA borked and lengthy email queues reported on busy servers after Microsoft tweaks a Server default 
+https://www.theregister.com/software/2026/10/19/admin-i-spent-all-weekend-on-my-servers-after-microsoft-breaks-exchange-server-with-october-updates/5303724
+
+OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys
+https://thehackernews.com/2026/10/opencode-console-breach-may-have.html
+
+Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic
+https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html
+
+ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants
+https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html
+
+Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers
+https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html
+
+Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More
+https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html
+
+---------------------------------------------------
+
 15.10.2026
 
 Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug
