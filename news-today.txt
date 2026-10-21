@@ -1,3 +1,58 @@
+20.10.2026
+
+Google Cloud's London zones takes a nap, multiple services disrupted 
+Lloyds, HSBC, Royal Mail, Revolut all hit as europe-west2-b falls over.  No recovery time in sight, 'no workarounds for now' 
+https://www.theregister.com/paas-and-iaas/2026/10/20/google-clouds-london-zones-takes-a-nap-multiple-services-disrupted/5304084
+
+Google Cloud says a 'power event' caused today's outage
+Fells London zone, taking banks, parcel firm and property sites with it – and recovery is 'tentatively' due by 1300 UTC 
+https://www.theregister.com/paas-and-iaas/2026/10/20/google-cloud-says-a-power-event-caused-todays-outage/5304160
+
+Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns
+https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html
+
+Microsoft admits that Always On VPN problems were not fixed in the October Security Update
+Let they who are without sin throw a stone and miss the greenhouse entirely 
+https://www.theregister.com/os-platforms/2026/10/20/microsoft-admits-that-always-on-vpn-problems-were-not-fixed-in-the-october-security-update/5304063
+
+Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software
+https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html
+
+Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution
+https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html
+
+Palo Alto's firewall OS has been under attack from multiple ransomware groups since June
+Unit 42 investigates network compromises across numerous industries 
+https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226
+
+Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA
+https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html
+
+Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites
+https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html
+
+ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident
+https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html
+
+Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware
+https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html
+
+ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan
+https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html
+
+Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware
+https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html
+
+Microsoft Abandons UK AI Supercomputer As Grid Struggles to Keep Up
+https://hardware.slashdot.org/story/26/10/20/0529215/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up
+
+Sony updates the Walkman as a $5,900 gold-plated MP3 player
+That price buys you an Android 16 device which can display an animated cassette 
+https://www.theregister.com/personal-tech/2026/10/20/sony-updates-the-walkman-as-a-5900-gold-plated-mp3-player/5304051
+https://hardware.slashdot.org/story/26/10/20/1923237/sony-updates-the-walkman-as-a-5900-gold-plated-mp3-player
+
+---------------------------------------------------
+
 19.10.2026
 
 Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking
