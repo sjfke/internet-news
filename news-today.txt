@@ -1,3 +1,77 @@
+21.10.2026
+
+PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't
+https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html
+https://www.php.net/index.php#2026-10-20-1
+
+PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert
+https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html
+
+AI cuts coding time, but it's also filling open source's inbox with crap
+Maintainers reckon a quarter of incoming pull requests are slop, rising to 31% on larger projects 
+https://www.theregister.com/ai-and-ml/2026/10/21/ai-cuts-coding-time-but-its-also-filling-open-sources-inbox-with-crap/5304389
+
+Swamped curl maintainers take low-level flaws public to survive vulnerability 'avalanche'
+From October 26, only high and critical cases stay private as project seeks help sharing the workload 
+https://www.theregister.com/security/2026/10/20/swamped-curl-maintainers-take-low-level-flaws-public-to-survive-vulnerability-avalanche/5304198
+
+Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands
+https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html
+
+Google Support Pages Start Defaulting to AI Chatbots
+https://tech.slashdot.org/story/26/10/20/199206/google-support-pages-start-defaulting-to-ai-chatbots
+
+OpenBSD 8.0 Released
+https://tech.slashdot.org/story/26/10/20/171229/openbsd-80-released
+
+Indian certification authority eMudhra’s private keys compromised – one of them was the number ‘4’
+Massive clean-up job under way because this mess makes it possible to impersonate any website or service 
+https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312
+GC: see https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html
+
+CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws
+https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html
+
+Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections
+https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html
+
+openEuler brings China's enterprise Linux ambitions to the desktop
+CentOS roots give way to homegrown containers, AI tools, and a workstation edition we took for a spin 
+https://www.theregister.com/os-platforms/2026/10/20/openeuler-brings-chinas-enterprise-linux-ambitions-to-the-desktop/5304145
+
+OneDrive loses bunch of Copilot shortcuts in File Explorer clear-out
+Microsoft keeps 'Ask Copilot' as dedicated actions disappear between mid-November and early December 
+https://www.theregister.com/ai-and-ml/2026/10/20/onedrive-loses-bunch-of-copilot-shortcuts-in-file-explorer-clear-out/5304149
+
+Nervous ISPs replace Chrome as strange consumers of DNS resources
+Some network operators like to wear belts and suspenders to keep their services up 
+https://www.theregister.com/networks/2026/10/21/nervous-isps-replace-chrome-as-strange-consumers-of-dns-resources/5304344
+
+Enterprises blow nearly a third of software budgets on upgrades they never asked for
+Keeping vendors happy is costing businesses millions, even when everything was working fine in the first place 
+https://www.theregister.com/software/2026/10/20/enterprises-blow-nearly-a-third-of-software-budgets-on-upgrades-they-never-asked-for/5304181
+
+AI has 'potential' to turn script kiddies into sophisticated infrastructure attackers
+Consider this the wake-up call 
+https://www.theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297
+
+OneDrive gives Macs a million things to keep in sync
+October preview raises supported limit from 300,000 items, with general availability penciled in for June 2027 
+https://www.theregister.com/saas/2026/10/21/onedrive-gives-macs-a-million-things-to-keep-in-sync/5304442
+
+Nvidia picks OpenShell to tame AI gents
+Give your agents freedom to do useful work by locking them down 
+https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319
+
+Tens of thousands of Nvidia GPUs sit idle in Meta's Prometheus supercluster, just waiting for a failure
+And other fun facts about how Zuckercorp aims to keep a million GPUs running long enough to train a model 
+https://www.theregister.com/systems/2026/10/20/tens-of-thousands-of-nvidia-gpus-sit-idle-in-metas-prometheus-supercluster-just-waiting-for-a-failure/5304269
+
+AMD Is Bringing FSR 4.1 to Xbox Consoles and Handhelds
+https://games.slashdot.org/story/26/10/20/1917248/amd-is-bringing-fsr-41-to-xbox-consoles-and-handhelds
+
+---------------------------------------------------
+
 20.10.2026
 
 Google Cloud's London zones takes a nap, multiple services disrupted 
