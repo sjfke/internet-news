@@ -1,3 +1,71 @@
+23.10.2026
+
+Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials
+https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html
+GC: such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls.
+
+Unvetted AI Agents Are Accessing US Bank Accounts 
+https://news.slashdot.org/story/26/10/23/0023257/unvetted-ai-agents-are-accessing-us-bank-accounts
+
+PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches
+https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html
+
+PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware
+https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html
+
+PHP2Shell exploit bypasses protections designed to stop remote code execution
+“Adversaries are clearly spending time (and tokens) on this bug,” researcher says. 
+https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883
+
+Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image
+https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html
+
+Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes
+https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html
+https://it.slashdot.org/story/26/10/22/1612227/several-linux-kernel-vulnerabilities-accidentally-posted-to-public-kernel-mailing-list
+
+Max-severity GitLab bug allows remote code execution over 12 years of releases
+Vendor 'strongly recommends' upgrading to a fixed version 'as soon as possible'  
+https://www.theregister.com/security/2026/10/22/max-severity-gitlab-bug-allows-remote-code-execution-over-12-years-of-releases/5304854
+
+Microsoft Says October Updates Didn't Actually Fix VPN Issues 
+https://it.slashdot.org/story/26/10/22/1950254/microsoft-says-october-updates-didnt-actually-fix-vpn-issues
+
+eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable
+https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html
+https://www.theregister.com/security/2026/10/22/disgraced-indian-cert-issuer-leaves-the-cert-issuing-business/5304848
+
+SparkyOS: Lightweight general-purpose Arch, on a pendrive
+Interesting new project from the minds behind SparkyLinux 
+https://www.theregister.com/os-platforms/2026/10/23/sparkyos-lightweight-general-purpose-arch-on-a-pendrive/5304984
+
+Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data
+https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html
+
+Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations
+https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html
+
+Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks
+https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html
+
+Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances
+https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html
+
+ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More
+https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html
+
+Bose Is Buying Skullcandy
+https://entertainment.slashdot.org/story/26/10/22/1737238/bose-is-buying-skullcandy
+
+The Browser Company Retires Its Arc Browser, Pushes Users to Dia
+https://tech.slashdot.org/story/26/10/22/1944228/the-browser-company-retires-its-arc-browser-pushes-users-to-dia
+
+PubKeep picks up where Microsoft Publisher signs off
+$99 replacement opens old .pub files on Windows and macOS, without a subscription 
+https://www.theregister.com/applications/2026/10/23/pubkeep-picks-up-where-microsoft-publisher-signs-off/5304978
+
+-----------------------------------------------
+
 22.10.2026
 
 Government Websites Go Dark After Severe PHP Vulnerabilities Disclosed 
