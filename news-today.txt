@@ -1,3 +1,40 @@
+24.10.2026
+
+PHP-ocalypse: How two critical web bugs almost broke the internet
+https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/
+
+There's a third PHP2Shell bug, but it won't get an emergency fix
+Bad things (and software bugs?) come in threes 
+https://www.theregister.com/security/2026/10/23/theres-a-third-php2shell-bug-but-it-wont-get-an-emergency-fix/5305208
+GC: se https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html
+
+Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline
+https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html
+
+Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software
+https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html
+
+Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads
+https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html
+
+Raspberry Pi Desktop proves old PCs aren't past it
+Debian 13-based refresh runs comfortably on veteran ThinkPads, without making installation a hobby 
+https://www.theregister.com/os-platforms/2026/10/24/raspberry-pi-desktop-proves-old-pcs-arent-past-it/5304676
+
+Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws
+https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html
+
+CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud
+https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html
+
+BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations
+https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html
+
+Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet
+https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html
+
+-----------------------------------------------
+
 23.10.2026
 
 Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials
