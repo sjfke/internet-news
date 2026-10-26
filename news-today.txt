@@ -1,3 +1,63 @@
+26.10.2026
+
+PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity
+https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html
+
+Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs
+https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html
+
+Work to protect DNS from quantum decryption attacks is speeding up
+PLUS: Regional internet registry reform nears; Trustworthy-sounding domains attract scammers 
+https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274
+
+Systemd Merges Support for Rust Programs 
+https://linux.slashdot.org/story/26/10/25/2227243/systemd-merges-support-for-rust-programs
+
+Microsoft Announces Open Source Tool Evaluating Your Software's Optimization For AI Coding Agents 
+https://news.slashdot.org/story/26/10/26/0420240/microsoft-announces-open-source-tool-evaluating-your-softwares-optimization-for-ai-coding-agents
+
+A Newly Proposed Linux Filesystem Can Fix Corrupted Data 
+https://linux.slashdot.org/story/26/10/25/2153202/a-newly-proposed-linux-filesystem-can-fix-corrupted-data
+
+Tesco replacing VMware with Proxmox in its stores and on the edge
+Advertises for someone to ‘own cost-effective alternative virtualisation platform’ 
+https://www.theregister.com/virtualization/2026/10/26/tesco-replacing-vmware-with-proxmox-in-its-stores-and-on-the-edge/5305281
+
+Microsoft offers buyouts to around 60,000 employees, reports say
+https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/
+
+Apple unveils new iPad mini with OLED display and faster A20 Pro chip
+https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/
+
+Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware
+https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html
+
+Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware
+https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html
+
+Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes
+https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html
+
+Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers
+https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html
+
+uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts
+https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html
+
+Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More
+https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html
+
+AI delivers ‘zero financial payoff’ to most companies, Apollo economist says
+https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/
+https://slashdot.org/story/26/10/25/2040212/ai-delivers-zero-financial-payoff-to-most-companies-economist-says
+https://www.theregister.com/ai-and-ml/2026/10/26/private-equity-giant-ai-payoff-strictly-limited-to-big-tech/5305358
+
+Euro open source specialist proposes LLM gateway to ease token bills
+Aiven hopes to do for LLMs what it does for databases 
+https://www.theregister.com/ai-and-ml/2026/10/26/euro-open-source-specialist-proposes-llm-gateway-to-ease-token-bills/5305170
+
+-------------------------------------------------
+
 24.10.2026
 
 PHP-ocalypse: How two critical web bugs almost broke the internet
