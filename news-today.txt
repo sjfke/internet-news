@@ -1,3 +1,79 @@
+27.10.2026
+
+Microsoft releases out-of-band Windows fixes with certificate updates
+Did you hear the one about eMudhra and the power of 4? Time to get connected to certificate trust list updates 
+https://www.theregister.com/security/2026/10/27/microsoft-releases-out-of-band-windows-fixes-with-certificate-updates/5305637
+
+Apple rolls out iOS 27.2 with new Siri AI languages and security fixes
+https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/
+
+AI-Generated Fake Login Pages Are Making Account Takeovers Easier
+https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html
+
+PHP2Shell Security Flaws Now Successfully Exploited 
+https://yro.slashdot.org/story/26/10/26/2150206/php2shell-security-flaws-now-successfully-exploited
+https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html
+https://www.theregister.com/cyber-crime/2026/10/27/cisa-confirms-php2shell-under-attack-as-researchers-clock-successful-exploits/5305681
+
+Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads
+https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html
+
+Apple's foldable phone has a crease in its reputation
+Admits a 'small number' of iPhone Duos have display problems, and no, you're not folding it wrong.  
+https://www.theregister.com/personal-tech/2026/10/27/apples-foldable-phone-has-a-crease-in-its-reputation/5305669
+
+Apple unveils new 14-inch MacBook Pro with M6 chip
+https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/
+
+IBM admits mainframes need to be modernized and will use AI to do the job
+Promises to build ‘IBM Z Atlas’ tool that will tidy up messy big iron and enable AIOps 
+https://www.theregister.com/systems/2026/10/27/ibm-admits-mainframes-need-to-be-modernized-and-will-use-ai-to-do-the-job/5305618
+
+ZacOS 9 and Mavernix: Two classic Apple desktops find their Wayland to Linux
+Classic Platinum or lickable Mavericks-era Aqua – it's your choice 
+https://www.theregister.com/os-platforms/2026/10/27/zacos-9-and-mavernix-two-classic-apple-desktops-find-their-wayland-to-linux/5305710
+
+Highway Thieves Are Spoofing GPS To Steal Millions In Data Center-Bound Cargo
+https://yro.slashdot.org/story/26/10/26/1759233/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo
+
+Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento
+https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html
+
+Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens
+https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html
+
+Apple Updates the iPad Mini With a Larger OLED Display
+https://apple.slashdot.org/story/26/10/26/1549226/apple-updates-the-ipad-mini-with-a-larger-oled-display
+GC: see https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/
+
+Microsoft Offers Mass Buyouts For Roughly a Quarter of Its Workforce 
+https://slashdot.org/story/26/10/26/1544243/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce
+https://www.theregister.com/cxo/2026/10/26/microsoft-offers-parachutes-to-60k-employees-if-they-jump-by-the-end-of-the-year/5305538
+
+snooping on contractors
+Noyb files five complaints in four member states over alleged tracking of workers on Scale AI's Outlier platform 
+https://www.theregister.com/legal/2026/10/27/eu-privacy-advocates-accuse-us-data-annotation-firm-of-snooping-on-contractors/5305757
+
+Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses
+https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html
+
+GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption
+https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html
+
+Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption
+https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html
+
+OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections
+https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html
+
+Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers
+https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html
+
+Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key
+https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html
+
+---------------------------------------------
+
 26.10.2026
 
 PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity
