@@ -1,3 +1,102 @@
+29.10.2026
+
+Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions
+https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html
+
+Apple Announces Its First Touchscreen MacBook Pro 
+https://hardware.slashdot.org/story/26/10/28/1732233/apple-announces-its-first-touchscreen-macbook-pro
+https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/
+
+Microsoft breaks New Outlook attachment opening with Edge Update
+Attachments in New Outlook come undone thanks to Windows' fundamental interconnectedness of things 
+https://www.theregister.com/personal-tech/2026/10/29/microsoft-breaks-new-outlook-attachment-opening-with-edge-update/5306224
+
+Amazon Finds 'Tokenmaxxing' Lacks Productivity Gains
+https://tech.slashdot.org/story/26/10/28/1816223/amazon-finds-tokenmaxxing-lacks-productivity-gains
+https://www.theregister.com/ai-and-ml/2026/10/28/amazon-tells-tokenmaxxing-devs-to-slow-their-ai-roll/5306090
+
+Google Begins Certifying Registered App Stores For Android
+https://tech.slashdot.org/story/26/10/28/0313217/google-begins-certifying-registered-app-stores-for-android
+https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html
+
+Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion
+https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/
+
+LibreOffice's 'no AI' stance meets LLM-assisted code
+Core developers avoid AI coding assistants, while community contributors face disclosure and review rules 
+https://www.theregister.com/ai-and-ml/2026/10/29/libreoffices-no-ai-stance-meets-llm-assisted-code/5306084
+
+Systemd adds support for Rust
+What's even better than Rust in the Linux kernel? Rust in systemd! 
+https://www.theregister.com/os-platforms/2026/10/29/systemd-adds-support-for-rust/5306264
+
+Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open
+https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html
+
+Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls
+https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html
+
+EMACS Turns 50
+https://news.slashdot.org/story/26/10/28/1541214/emacs-turns-50
+
+Attackers turn GitHub issues into supply chain campaign against 61 public repos in less than an hour
+'The workflow automatically is triggered within a second, and if the workflow is indeed vulnerable, then the attack is executed successfully' 
+https://www.theregister.com/security/2026/10/29/attackers-turn-github-issues-into-supply-chain-campaign-against-61-public-repos-in-less-than-an-hour/5306153
+
+GitHub Launches npm Firewall to Block Malicious Packages Before Installation
+https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html
+
+PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network
+https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html
+
+Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys
+https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html
+
+26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories
+https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html
+
+Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win
+https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html
+
+Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch
+https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html
+
+Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns
+https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html
+
+China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility
+https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html
+
+Tape is so not dead that Fujifilm will increase production capacity 5x
+Because, sigh, AI 
+https://www.theregister.com/storage/2026/10/29/tape-is-so-not-dead-that-fujifilm-will-increase-production-capacity-5x/5306189
+
+Oracle wants to bill you for every AI task, not just every seat 
+Big Red says AI units will add to subscriptions, as it juggles $90BN-plus capex, mounting debt and a $225BN revenue goal for 2030 
+https://www.theregister.com/applications/2026/10/29/oracle-wants-to-bill-you-for-every-ai-task-not-just-every-seat/5306403
+
+Google struggling to make AI Mode searches pay
+That’s a problem, cos it just spent $51 billion on infrastructure and still needs to rent compute from others to run its cloud 
+https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181
+https://tech.slashdot.org/story/26/10/29/0444201/google-struggling-to-make-ai-mode-searches-pay
+
+Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities
+https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html
+
+Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners
+https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html
+
+The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers
+https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html
+
+Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls
+https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html
+
+Bank of America Kindly Asks That You Don't Share Your Password With Your AI Assistant
+https://yro.slashdot.org/story/26/10/28/2247205/bank-of-america-kindly-asks-that-you-dont-share-your-password-with-your-ai-assistant
+
+-------------------------------------------------------
+
 27.10.2026
 
 Microsoft releases out-of-band Windows fixes with certificate updates
