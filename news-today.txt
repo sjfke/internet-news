@@ -1,3 +1,50 @@
+30.10.2026
+
+Proton CEO Is In 'Full AI Psychosis' 
+https://slashdot.org/story/26/10/30/0126236/proton-ceo-is-in-full-ai-psychosis
+
+Topcoat enables Rust to render server-side web apps
+Rust guru rejiggers web app reactivity for potentially speedier page loading 
+https://www.theregister.com/devops/2026/10/29/topcoat-enables-rust-to-render-server-side-web-apps/5306470
+
+AlpineBSD announced – an AI-free FOSS OS
+Combining the NetBSD kernel with the Alpine Linux userland 
+https://www.theregister.com/os-platforms/2026/10/30/alpinebsd-announced-an-ai-free-foss-os/5306589
+
+Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw
+https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html
+
+Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched
+Embedded browsers are at the heart of the problem 
+https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508
+
+Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor
+https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html
+
+TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them
+https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html
+
+Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis
+https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html
+
+WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours
+https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html
+
+Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen
+https://thehackernews.com/2026/10/binance-suffers-security-breach.html
+
+CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV
+https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html
+
+ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories
+https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html
+
+PC chip plunge wipes out a quarter of Intel’s value
+CEO predicts massive datacenter CPU boom, coming soon, but production problems mean Chipzilla may not cash in 
+https://www.theregister.com/systems/2026/10/30/pc-chip-plunge-wipes-out-a-quarter-of-intels-value/5306531
+
+------------------------------------------------
+
 29.10.2026
 
 Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions
