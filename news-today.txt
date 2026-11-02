@@ -1,3 +1,64 @@
+02.11.2026
+
+SUSE to cut one in ten employees because of... AI
+'Modern tooling is already changing our daily workflows' says CEO at open source biz 
+https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950
+
+Linus Torvalds says Linux kernel is out of 'stabilization phase' and using 'much healthier model' for AI contributions
+Yet machine-made patches ‘often get rewritten’ 
+https://www.theregister.com/os-platforms/2026/11/01/linus-torvalds-says-linux-kernel-is-out-of-stabilization-phase-and-using-much-healthier-model-for-ai-contributions/5306852
+https://linux.slashdot.org/story/26/11/01/2012246/ai-makes-linux-74-merge-window-the-largest-in-kernel-history
+
+Rocky Linux Creator Built a New 'Not Linux' Kernel in 11 Days Using AI
+https://tech.slashdot.org/story/26/11/02/0317207/rocky-linux-creator-built-a-new-not-linux-kernel-in-11-days-using-ai
+A Rust-first x86-64 operating system built around native domains and Linux userspace compatibility.
+https://github.com/gmkurtzer/ginux
+
+SystemD's Creator Opens Signups for Private Preview of Amutable's Cryptographically Verified Linux Systems 
+https://tech.slashdot.org/story/26/11/01/229250/systemds-creator-opens-signups-for-private-preview-of-amutables-cryptographically-verified-linux-systems
+
+Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%
+https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html
+
+Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data
+https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html
+
+Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data
+https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html
+
+Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts
+https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html
+
+Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access
+https://thehackernews.com/2026/11/google-disrupts-13-million-device.html
+
+Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access
+https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html
+
+CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key
+https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html
+
+Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers
+https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html
+
+New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value
+https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html
+
+A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats
+https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html
+
+Stack Overflow: 'Reports of Our Death are Greatly Exaggerated' 
+https://developers.slashdot.org/story/26/11/02/0026255/stack-overflow-reports-of-our-death-are-greatly-exaggerated
+
+Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script
+https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html
+
+Token thieves costing companies $100K+ per day in illicit LLM charges
+Don't let the LLMjackers hit you 
+https://www.theregister.com/security/2026/11/02/token-thieves-costing-companies-100k-per-day-in-illicit-llm-charges/5306967
+
+------------------------------------------------------
+
 30.10.2026
 
 Proton CEO Is In 'Full AI Psychosis' 
