@@ -1,3 +1,62 @@
+03.11.2026
+
+Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing
+https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html
+
+Announcing Fedora Linux 45
+https://fedoramagazine.org/announcing-fedora-linux-45/
+
+Apple's Mac business is booming, but the memory market has other plans
+New CEO John Ternus toasts record sales as soaring RAM costs threaten supplies and squeeze margins 
+https://www.theregister.com/personal-tech/2026/11/03/apples-mac-business-is-booming-but-the-memory-market-has-other-plans/5307188
+https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/
+
+Cops bust botnet of 1.3M infected Android TV boxes
+Videostrong accused of shipping devices with a backdoor baked in 
+https://www.theregister.com/cyber-crime/2026/11/02/cops-bust-botnet-of-13m-infected-android-tv-boxes/5307045
+https://it.slashdot.org/story/26/11/03/0558219/cops-bust-botnet-of-13-million-android-tv-boxes
+GC: see https://thehackernews.com/2026/11/google-disrupts-13-million-device.html
+
+Architect creates open source replacement for VM migration tool VMware has hidden
+OpenVDDK is reportedly already being used in production, at scale 
+https://www.theregister.com/virtualization/2026/11/03/architect-creates-open-source-replacement-for-vm-migration-tool-vmware-has-hidden/5307124
+
+Broadcom denied names of cloud providers backing VMware merger challenge
+EU court's confidentiality ruling clears a procedural hurdle, not the merits of CISPE's case against Commission approval 
+https://www.theregister.com/virtualization/2026/11/03/broadcom-denied-names-of-cloud-providers-backing-vmware-merger-challenge/5307178
+
+Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw
+https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html
+
+cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes
+https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html
+
+Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets
+https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html
+
+Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials
+https://thehackernews.com/2026/11/attackers-target-unpatched.html
+
+Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More
+https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html
+
+Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors
+https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html
+
+Raspberry Pi hikes prices again, barely a month after the last round
+Memory crunch pushes 16GB Pi 5 to $385, more than triple its launch price, just a month after the last round of hikes 
+https://www.theregister.com/personal-tech/2026/11/03/raspberry-pi-hikes-prices-again-barely-a-month-after-the-last-round/5307004
+
+Study Claims Vizio Simply Ignores 'Smart' TV Spying Opt Out Requests 
+https://entertainment.slashdot.org/story/26/11/02/2043259/study-claims-vizio-simply-ignores-smart-tv-spying-opt-out-requests
+
+Microsoft's Canada timezone troubles leave admins fixing calendars, pretending they're in Bogota
+Canadian regions stop turning back the clocks, Microsoft wishes it could 
+https://www.theregister.com/software/2026/11/02/microsofts-canada-timezone-troubles-leave-admins-fixing-calendars-pretending-theyre-in-bogota/5306934
+https://news.slashdot.org/story/26/11/02/1538237/microsofts-canada-timezone-troubles-leave-admins-fixing-calendars-pretending-theyre-in-bogota
+
+-------------------------------------------
+
 02.11.2026
 
 SUSE to cut one in ten employees because of... AI
