@@ -1,3 +1,90 @@
+09.11.2026
+
+Outlook.com bounces legit emails as Microsoft's authentication crackdown goes sideways 
+Missing DMARC or wobbly SPF means your mail may be treated as suspicious 
+https://www.theregister.com/applications/2026/11/09/outlookcom-bounces-legit-emails-as-microsofts-authentication-crackdown-goes-sideways/5308428
+
+Linus Torvalds sees signs AI-prompted patch flood has peaked
+Fixes are arriving faster than new bug reports for one major Linux project 
+https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345
+
+Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot
+https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html
+
+AlmaLinux Shows Advantages of ABI Compatibility After RHEL Restricted Source Code Access
+https://linux.slashdot.org/story/26/11/07/0330255/almalinux-shows-advantages-of-abi-compatibility-after-rhel-restricted-source-code-access
+
+Asahi Linux Drops MIT and Goes Full GPL After Spotting LLM-Assisted License Laundering
+https://news.slashdot.org/story/26/11/09/0440238/asahi-linux-drops-mit-and-goes-full-gpl-after-spotting-llm-assisted-license-laundering
+
+AlpineBSD Announced - an AI-free FOSS OS
+https://bsd.slashdot.org/story/26/11/08/0044219/alpinebsd-announced---an-ai-free-foss-os
+
+Microsoft's Azure Linux gets 470-plus security fixes in one almighty patching session
+A mountain of CVEs, a certificate cleanup, and yet more work for Microsoft's patching teams 
+https://www.theregister.com/security/2026/11/09/microsofts-azure-linux-gets-470-plus-security-fixes-in-one-almighty-patching-session/5308434
+
+Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It
+https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html
+
+Can CrowdStrike's New 'AI Kill Switch' Shut Down Rogue AI Agents? 
+https://it.slashdot.org/story/26/11/09/0020217/can-crowdstrikes-new-ai-kill-switch-shut-down-rogue-ai-agents
+
+OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits
+https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html
+
+Python's CVEs Triple. Anthropic Funds a New Security Developer
+https://developers.slashdot.org/story/26/11/08/0558256/pythons-cves-triple-anthropic-funds-a-new-security-developer
+
+Microsoft takes three decades to make Sticky Keys less sticky
+Windows preview adds a 'don't ask again' option to accessibility prompts, sparing users a trip through Settings 
+https://www.theregister.com/os-platforms/2026/11/09/microsoft-takes-three-decades-to-make-sticky-keys-less-sticky/5308491
+
+Memory crunch makes refurbished kit look a lot less secondhand
+Soaring component costs and warranties of up to three years give buyers more reason to consider pre-loved hardware 
+https://www.theregister.com/on-prem/2026/11/09/memory-crunch-makes-refurbished-kit-look-a-lot-less-secondhand/5307758
+
+Huawei says it’s made a 100 percent Chinese PC
+PLUS: Japan declares infosec emergency; Apple makes biggest school Mac sale, ever, anywhere, in the Philippines; And more! 
+https://www.theregister.com/systems/2026/11/09/huawei-says-its-made-a-100-percent-chinese-pc/5308335
+
+Microsoft Removes PC-to-PC Migration from Windows 11, Points Users to OneDrive-Based Backup
+https://tech.slashdot.org/story/26/11/07/2333220/microsoft-removes-pc-to-pc-migration-from-windows-11-points-users-to-onedrive-based-backup
+
+Japanese homeware giant pulls online store after cloud breach puts 7.7M records at risk
+No reopening date as orders face delays and some customers are told to refuse deliveries to cancel purchases 
+https://www.theregister.com/cyber-crime/2026/11/09/japanese-homeware-giant-pulls-online-store-after-cloud-breach-puts-77m-records-at-risk/5308377
+
+Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars
+https://thehackernews.com/2026/11/default-adminadmin-server-password.html
+
+Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety
+https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html
+
+Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More
+https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html
+
+CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation
+https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html
+
+LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks
+https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html
+
+Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time
+https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html
+
+Norwegians Release FOSS GNOME Software for Music Recording, Internet Radio, and Cameras
+https://entertainment.slashdot.org/story/26/11/08/039242/norwegians-release-foss-gnome-software-for-music-recording-internet-radio-and-cameras
+
+Chainalysis Says Breach Exposed Credentials For All Customers 
+https://it.slashdot.org/story/26/11/06/2156257/chainalysis-says-breach-exposed-credentials-for-all-customers
+
+Claude Code's 'Don't Ask Again' File Exposes Passwords and Keys in 1,122 Public Copies on GitHub
+https://it.slashdot.org/story/26/11/08/1758242/claude-codes-dont-ask-again-file-exposes-passwords-and-keys-in-1122-public-copies-on-github
+https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html
+
+--------------------------------------------
+
 05.11.2026
 
 Microsoft fixed Excel 2016 copy-paste bug. Then reintroduced it. Now it's fixed again
