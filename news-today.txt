@@ -1,3 +1,72 @@
+10.11.2026
+
+Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities
+https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html
+
+Cisco to link all future products to its SaaS-y Cloud Control management tool
+Global rollout of unified portal finally happening in 2027 
+https://www.theregister.com/networks/2026/11/10/cisco-to-link-all-future-products-to-its-saas-y-cloud-control-management-tool/5308660
+
+Anthropic's super bug-finding Mythos model is going into Cisco and IBM products
+Enterprise security tools will offer its capabilities without handing customers the model itself 
+https://www.theregister.com/ai-and-ml/2026/11/10/anthropics-super-bug-finding-mythos-model-is-going-into-cisco-and-ibm-products/5308616
+
+Chrome zero-day whack-a-mole continues as 2026 tally hits 8
+Another Chrome memory bug gets squashed, but not before attackers got their hands on it 
+https://www.theregister.com/security/2026/11/10/chrome-zero-day-whack-a-mole-continues-as-2026-tally-hits-8/5308732
+https://thehackernews.com/2026/11/google-issues-chrome-security-update.html
+
+New WhatsApp head wants to make the app easier to use, give its AI more chops
+https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/
+
+Boston Dynamics Adds Wheels to Atlas Humanoid
+https://hardware.slashdot.org/story/26/11/09/2317206/boston-dynamics-adds-wheels-to-atlas-humanoid
+
+Microsoft teaches schools that free email was just a phase
+Office 365 A1 and Student Use Benefit face retirement, leaving institutions to budget for paid replacements at renewal 
+https://www.theregister.com/saas/2026/11/10/microsoft-teaches-schools-that-free-email-was-just-a-phase/5308371
+
+Microsoft is giving Claude the keys to UK Copilot tenants by default
+Admins have until December 9 to review access settings as Anthropic processes data in the US 
+https://www.theregister.com/ai-and-ml/2026/11/10/microsoft-is-giving-claude-the-keys-to-uk-copilot-tenants-by-default/5308693
+
+Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed
+https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html
+
+N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits
+https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html
+https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/
+
+CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws
+https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html
+
+Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark
+https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html
+
+Google broadens its AI hardware portfolio with two new specialized chips
+https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/
+
+Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data
+https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html
+
+Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor
+https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html
+
+Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware
+https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html
+
+Google DeepMind melds humans and AI agents to vet Signal's secure messaging techniques
+Post-quantum handshake and Triple Ratchet get a formal security check 
+https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625
+
+Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights
+https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html
+
+Ransomware threat blares from Vanderbilt University computers during cyberattack
+BYOD claims extensive data theft as campus Wi-Fi returns, most systems remain restricted, and classes carry on 
+https://www.theregister.com/cyber-crime/2026/11/10/ransomware-threat-blares-from-vanderbilt-university-computers-during-cyberattack/5308687
+--------------------------------------------------
+
 09.11.2026
 
 Outlook.com bounces legit emails as Microsoft's authentication crackdown goes sideways 
