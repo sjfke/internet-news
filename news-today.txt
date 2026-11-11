@@ -1,3 +1,96 @@
+11.11.2026
+
+November Patch Tuesday boasts over 1,000 bugs but only one zero-day so far
+Microsoft admins wail and gnash their teeth 
+https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-but-only-one-zero-day-so-far/5308946
+
+Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes
+https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html
+
+Microsoft's Patch Tuesday can't break stuff if it won't install
+KB5132061 throws 0x800F0993 and 0x800F0989 errors, and Redmond is saying nothing 
+https://www.theregister.com/os-platforms/2026/11/11/microsofts-patch-tuesday-cant-break-stuff-if-it-wont-install/5309059
+
+Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones
+https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html
+
+Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation
+https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html
+
+Apple's touchscreen MacBook Pro does not like to be taken apart
+Easy lid swaps earn praise from iFixit, but panel removal ends in cracks and USB-C repairs require logic board surgery 
+https://www.theregister.com/personal-tech/2026/11/11/apples-touchscreen-macbook-pro-does-not-like-to-be-taken-apart/5309110
+
+Apple tells its Support Community to STFU
+User-to-user forum goes read-only ahead of November 20 closure, with archive's fate unclear 
+https://www.theregister.com/personal-tech/2026/11/11/apple-tells-its-support-community-to-stfu/5309090
+https://apple.slashdot.org/story/26/11/11/1655250/apple-is-killing-its-support-community-forum-next-week
+
+AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets
+https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html
+
+Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords
+https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html
+
+eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise
+https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html
+
+Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits
+https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html
+https://www.qlik.com/us
+
+Barracuda’s email security gateways bitten by make-me-root vulns
+Someone's fishing for exposed devices 
+https://www.theregister.com/security/2026/11/10/barracudas-email-security-gateways-bitten-by-make-me-root-vulns/5308883
+
+Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges
+https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html
+https://railway.com/
+
+Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available
+https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/
+
+Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches
+https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html
+
+Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons
+https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html
+
+Google gooses Python AI performance by... removing Python
+Newly open sourced XSE handles six million queries a second across services including Search, Ads, and YouTube Shorts 
+https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995
+
+VMware floats new standard to make sure apps don’t break in hybrid K8s environments
+Virtzilla also taking on KubeVirt by sharing VM API with the CNCF 
+https://www.theregister.com/virtualization/2026/11/10/vmware-floats-new-standard-to-make-sure-apps-dont-break-in-hybrid-k8s-environments/5308956
+
+To thwart reverse engineering by agents, dev proposes blinding them
+A poke in the AI with a sharp stick 
+https://www.theregister.com/ai-and-ml/2026/11/10/to-thwart-reverse-engineering-by-agents-dev-proposes-blinding-them/5308897
+
+Anthropic Launches New Workplace Features To Take On Microsoft and Google
+https://tech.slashdot.org/story/26/11/10/2023200/anthropic-launches-new-workplace-features-to-take-on-microsoft-and-google
+https://www.theregister.com/software/2026/11/10/anthropic-tiptoes-into-ms-office-territory/5308988
+
+Blender 5.3 Released With Nvidia DLSS 4.5 Ray Reconstruction, Vulkan Default
+https://tech.slashdot.org/story/26/11/10/178254/blender-53-released-with-nvidia-dlss-45-ray-reconstruction-vulkan-default
+
+Starlink Mini 2 Adds a Swappable Battery, Wi-Fi 6 
+https://tech.slashdot.org/story/26/11/10/208239/starlink-mini-2-adds-a-swappable-battery-wi-fi-6
+
+Fireworks AI Confirms Wider Breach Affecting Notion AI Chats
+https://it.slashdot.org/story/26/11/10/2156247/fireworks-ai-confirms-wider-breach-affecting-notion-ai-chats
+
+Google Fi Brings Back Network Switching With 'Secondary' Partner
+https://mobile.slashdot.org/story/26/11/10/2221238/google-fi-brings-back-network-switching-with-secondary-partner
+
+Ring robots ready to patrol paranoids’ pads
+Amazon calls its home security drone and business patrol bot 'proactive protection' 
+https://www.theregister.com/offbeat/2026/11/10/ring-robots-ready-to-patrol-paranoids-pads/5308932
+https://hardware.slashdot.org/story/26/11/11/0144217/amazons-ring-unveils-flying-drone-and-robot-to-patrol-homes-and-businesses
+
+-----------------------------------------
+
 10.11.2026
 
 Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities
