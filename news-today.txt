@@ -1,3 +1,27 @@
+15.11.2026
+
+How Will AI Affect Open Source Development? 
+https://news.slashdot.org/story/26/11/15/0615219/how-will-ai-affect-open-source-development
+
+Linus Torvalds Wonders If Linux's AI-Prompted Patch Flood Has Peaked
+https://linux.slashdot.org/story/26/11/14/0827227/linus-torvalds-wonders-if-linuxs-ai-prompted-patch-flood-has-peaked
+
+PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE
+https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html
+
+HPE debuts hybrid storage configs: Rising SSD costs hit supercomputing
+HPE aims for the market with faster, more cost-effective HPC storage to combat rising costs 
+https://www.theregister.com/storage/2026/11/13/hpe-debuts-hybrid-storage-configs-rising-ssd-costs-hit-supercomputing/5309679
+
+Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident
+https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html
+
+This year’s bug count just passed 100K
+‘We don’t have a security problem anymore. We have a data problem now’ 
+https://www.theregister.com/security/2026/11/13/this-years-bug-count-just-passed-100k/5309882
+
+----------------------------------------------
+
 13.11.2026
 
 Microsoft Outlook Goes Down Nationwide [UPDATE] 
