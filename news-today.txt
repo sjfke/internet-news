@@ -1,3 +1,52 @@
+16.11.2026
+
+Microsoft blames monster email outage on software defect introduced in July fix
+Summer code change caused a Fall fail – frantic engineers had to patch the patch instead of rolling back 
+https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026
+
+Microsoft Outlook outage blamed after 15 injured in hotel pool chlorine incident
+A safety warning went missing, chemical levels soared, and five guests ended up in hospital 
+https://www.theregister.com/saas/2026/11/16/microsoft-outlook-outage-blamed-after-15-injured-in-hotel-pool-chlorine-incident/5310087
+
+Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches
+https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html
+https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926
+
+Rust Leaves Top 10 in TIOBE Index, Making Room for Go 
+https://developers.slashdot.org/story/26/11/15/0710240/rust-leaves-top-10-in-tiobe-index-making-room-for-go
+
+Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys
+https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html
+https://dify.ai/
+
+BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server
+https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html
+
+SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity
+https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html
+
+Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login
+https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html
+
+Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware
+https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html
+
+Purism Announces 'Librem 5 v2' Linux Phone with RISC-V SoC
+https://mobile.slashdot.org/story/26/11/16/0742226/purism-announces-librem-5-v2-linux-phone-with-risc-v-soc
+
+Omaxian takes the Omarchy look down a different Linux backstreet
+Devuan-based distro swaps Wayland for XLibre and i3, with Xfce waiting if the tiling gets tiresome 
+https://www.theregister.com/os-platforms/2026/11/16/omaxian-takes-the-omarchy-look-down-a-different-linux-backstreet/5309750
+
+Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days
+https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html
+
+Criminals attack French postal operator subsidiary, grab contact details of 22M people
+France's data protection authority is looking into the intrusion after the postal service reported itself 
+https://www.theregister.com/cyber-crime/2026/11/16/criminals-attack-french-postal-operator-subsidiary-grab-contact-details-of-22m-people/5310070
+
+----------------------------------------------
+
 15.11.2026
 
 How Will AI Affect Open Source Development? 
