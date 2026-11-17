@@ -1,3 +1,62 @@
+17.11.2026
+
+Microsoft blames monster email outage on software defect introduced in July fix
+Summer code change caused a Fall fail – frantic engineers had to patch the patch instead of rolling back 
+https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026
+https://tech.slashdot.org/story/26/11/16/1628256/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix
+
+NoisyTCP bug gives Linux servers a remote crash problem 11 years in the making
+Flaw can take down an entire host, even when the vulnerable service is running inside a container 
+https://www.theregister.com/security/2026/11/16/noisytcp-bug-gives-linux-servers-a-remote-crash-problem-11-years-in-the-making/5310144
+
+Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges
+https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html
+
+FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’
+https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/
+https://it.slashdot.org/story/26/11/16/2025219/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours
+
+JPMorgan Chase Glitch Disrupts Online Banking Across Major US Banks
+https://news.slashdot.org/story/26/11/16/2332229/jpmorgan-chase-glitch-disrupts-online-banking-across-major-us-banks
+
+Optimizely hack turns world's biggest websites into malware dispensers
+BBC, Zoom, HSBC, and GitLab among those caught up in supply chain attack targeting visitors' crypto wallets, credit cards, and iPhones 
+https://www.theregister.com/cyber-crime/2026/11/17/optimizely-hack-turns-worlds-biggest-websites-into-malware-dispensers/5310448
+https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html
+
+'Not rocket surgery' claims researcher who found six Danfoss fridge controller zero-days in under an hour
+Even strict authentication mode has a hole, we're told, while basic exploit defenses are missing from the firmware 
+https://www.theregister.com/security/2026/11/17/not-rocket-surgery-claims-researcher-who-found-six-danfoss-fridge-controller-zero-days-in-under-an-hour/5310197
+
+New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels
+https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html
+
+Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks
+https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html
+https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/
+
+ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems
+https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html
+
+Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers
+https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html
+
+Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission
+https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html
+
+Infoblox customer and staff data exposed in Sharepoint breach
+The company is investigating 
+https://www.theregister.com/security/2026/11/16/infoblox-customer-and-staff-data-exposed-in-sharepoint-breach/5310280
+
+Up to 99% of UK civil servants rely on Microsoft for comms, minister admits
+Whitehall talks up supplier diversification after Redmond's 18-hour outage 
+https://www.theregister.com/software/2026/11/17/up-to-99-of-uk-civil-servants-rely-on-microsoft-for-comms-minister-admits/5310385
+
+'123456' Has Been the World's Most Popular Password for 7 of the Last 8 Years 
+https://it.slashdot.org/story/26/11/17/006235/123456-has-been-the-worlds-most-popular-password-for-7-of-the-last-8-years
+
+----------------------------------------------------
+
 16.11.2026
 
 Microsoft blames monster email outage on software defect introduced in July fix
