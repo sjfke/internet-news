@@ -1,3 +1,49 @@
+18.11.2026
+
+Optimizely Hack Turns World's Biggest Websites Into Malware Dispensers
+https://it.slashdot.org/story/26/11/17/2035243/optimizely-hack-turns-worlds-biggest-websites-into-malware-dispensers
+
+Oracle reveals fix-this-ASAP-grade Java4Shell bug that allows attacks on many third-party apps
+Attackers can crash the JVM or achieve unauthenticated RCE 
+https://www.theregister.com/security/2026/11/18/oracle-reveals-fix-this-asap-grade-java4shell-bug-that-allows-attacks-on-many-third-party-apps/5310661
+https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html
+
+CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution
+https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html
+
+Windows Server 2028 won't be compatible by default
+Testing times ahead for administrators: beefed-up security out of the box means some things might not 'just work' 
+https://www.theregister.com/os-platforms/2026/11/18/windows-server-2028-wont-be-compatible-by-default/5310766
+
+Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials
+https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html
+
+Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers
+https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html
+
+New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years
+https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html
+
+Apple services, including iCloud, App Store, Apple Music, and more, hit by outage
+https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/
+
+PowerShell 7 heading into Windows as 5.1 hits the end of the road
+Next OS release will bundle modern successor, giving admins a compatibility checklist to work through 
+https://www.theregister.com/os-platforms/2026/11/18/powershell-7-heading-into-windows-as-51-hits-the-end-of-the-road/5310791
+
+Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization
+https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html
+
+New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks
+https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html
+
+School Phone Bans Are Gradually Improving Test Scores
+https://news.slashdot.org/story/26/11/17/1954223/highly-classified-nsa-network-goes-down
+
+Kiri vs Docker Desktop: what's the same and what's different
+https://runkiri.com/blog/posts/kiri-vs-docker-desktop/
+--------------------------------------------------
+
 17.11.2026
 
 Microsoft blames monster email outage on software defect introduced in July fix
