@@ -1,3 +1,998 @@
+18.11.2026
+
+Optimizely Hack Turns World's Biggest Websites Into Malware Dispensers
+https://it.slashdot.org/story/26/11/17/2035243/optimizely-hack-turns-worlds-biggest-websites-into-malware-dispensers
+
+Oracle reveals fix-this-ASAP-grade Java4Shell bug that allows attacks on many third-party apps
+Attackers can crash the JVM or achieve unauthenticated RCE 
+https://www.theregister.com/security/2026/11/18/oracle-reveals-fix-this-asap-grade-java4shell-bug-that-allows-attacks-on-many-third-party-apps/5310661
+https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html
+
+CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution
+https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html
+
+Windows Server 2028 won't be compatible by default
+Testing times ahead for administrators: beefed-up security out of the box means some things might not 'just work' 
+https://www.theregister.com/os-platforms/2026/11/18/windows-server-2028-wont-be-compatible-by-default/5310766
+
+Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials
+https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html
+
+Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers
+https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html
+
+New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years
+https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html
+
+Apple services, including iCloud, App Store, Apple Music, and more, hit by outage
+https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/
+
+PowerShell 7 heading into Windows as 5.1 hits the end of the road
+Next OS release will bundle modern successor, giving admins a compatibility checklist to work through 
+https://www.theregister.com/os-platforms/2026/11/18/powershell-7-heading-into-windows-as-51-hits-the-end-of-the-road/5310791
+
+Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization
+https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html
+
+New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks
+https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html
+
+School Phone Bans Are Gradually Improving Test Scores
+https://news.slashdot.org/story/26/11/17/1954223/highly-classified-nsa-network-goes-down
+
+Kiri vs Docker Desktop: what's the same and what's different
+https://runkiri.com/blog/posts/kiri-vs-docker-desktop/
+--------------------------------------------------
+
+17.11.2026
+
+Microsoft blames monster email outage on software defect introduced in July fix
+Summer code change caused a Fall fail – frantic engineers had to patch the patch instead of rolling back 
+https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026
+https://tech.slashdot.org/story/26/11/16/1628256/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix
+
+NoisyTCP bug gives Linux servers a remote crash problem 11 years in the making
+Flaw can take down an entire host, even when the vulnerable service is running inside a container 
+https://www.theregister.com/security/2026/11/16/noisytcp-bug-gives-linux-servers-a-remote-crash-problem-11-years-in-the-making/5310144
+
+Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges
+https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html
+
+FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’
+https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/
+https://it.slashdot.org/story/26/11/16/2025219/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours
+
+JPMorgan Chase Glitch Disrupts Online Banking Across Major US Banks
+https://news.slashdot.org/story/26/11/16/2332229/jpmorgan-chase-glitch-disrupts-online-banking-across-major-us-banks
+
+Optimizely hack turns world's biggest websites into malware dispensers
+BBC, Zoom, HSBC, and GitLab among those caught up in supply chain attack targeting visitors' crypto wallets, credit cards, and iPhones 
+https://www.theregister.com/cyber-crime/2026/11/17/optimizely-hack-turns-worlds-biggest-websites-into-malware-dispensers/5310448
+https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html
+
+'Not rocket surgery' claims researcher who found six Danfoss fridge controller zero-days in under an hour
+Even strict authentication mode has a hole, we're told, while basic exploit defenses are missing from the firmware 
+https://www.theregister.com/security/2026/11/17/not-rocket-surgery-claims-researcher-who-found-six-danfoss-fridge-controller-zero-days-in-under-an-hour/5310197
+
+New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels
+https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html
+
+Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks
+https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html
+https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/
+
+ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems
+https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html
+
+Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers
+https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html
+
+Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission
+https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html
+
+Infoblox customer and staff data exposed in Sharepoint breach
+The company is investigating 
+https://www.theregister.com/security/2026/11/16/infoblox-customer-and-staff-data-exposed-in-sharepoint-breach/5310280
+
+Up to 99% of UK civil servants rely on Microsoft for comms, minister admits
+Whitehall talks up supplier diversification after Redmond's 18-hour outage 
+https://www.theregister.com/software/2026/11/17/up-to-99-of-uk-civil-servants-rely-on-microsoft-for-comms-minister-admits/5310385
+
+'123456' Has Been the World's Most Popular Password for 7 of the Last 8 Years 
+https://it.slashdot.org/story/26/11/17/006235/123456-has-been-the-worlds-most-popular-password-for-7-of-the-last-8-years
+
+----------------------------------------------------
+
+16.11.2026
+
+Microsoft blames monster email outage on software defect introduced in July fix
+Summer code change caused a Fall fail – frantic engineers had to patch the patch instead of rolling back 
+https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026
+
+Microsoft Outlook outage blamed after 15 injured in hotel pool chlorine incident
+A safety warning went missing, chemical levels soared, and five guests ended up in hospital 
+https://www.theregister.com/saas/2026/11/16/microsoft-outlook-outage-blamed-after-15-injured-in-hotel-pool-chlorine-incident/5310087
+
+Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches
+https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html
+https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926
+
+Rust Leaves Top 10 in TIOBE Index, Making Room for Go 
+https://developers.slashdot.org/story/26/11/15/0710240/rust-leaves-top-10-in-tiobe-index-making-room-for-go
+
+Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys
+https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html
+https://dify.ai/
+
+BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server
+https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html
+
+SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity
+https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html
+
+Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login
+https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html
+
+Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware
+https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html
+
+Purism Announces 'Librem 5 v2' Linux Phone with RISC-V SoC
+https://mobile.slashdot.org/story/26/11/16/0742226/purism-announces-librem-5-v2-linux-phone-with-risc-v-soc
+
+Omaxian takes the Omarchy look down a different Linux backstreet
+Devuan-based distro swaps Wayland for XLibre and i3, with Xfce waiting if the tiling gets tiresome 
+https://www.theregister.com/os-platforms/2026/11/16/omaxian-takes-the-omarchy-look-down-a-different-linux-backstreet/5309750
+
+Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days
+https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html
+
+Criminals attack French postal operator subsidiary, grab contact details of 22M people
+France's data protection authority is looking into the intrusion after the postal service reported itself 
+https://www.theregister.com/cyber-crime/2026/11/16/criminals-attack-french-postal-operator-subsidiary-grab-contact-details-of-22m-people/5310070
+
+----------------------------------------------
+
+15.11.2026
+
+How Will AI Affect Open Source Development? 
+https://news.slashdot.org/story/26/11/15/0615219/how-will-ai-affect-open-source-development
+
+Linus Torvalds Wonders If Linux's AI-Prompted Patch Flood Has Peaked
+https://linux.slashdot.org/story/26/11/14/0827227/linus-torvalds-wonders-if-linuxs-ai-prompted-patch-flood-has-peaked
+
+PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE
+https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html
+
+HPE debuts hybrid storage configs: Rising SSD costs hit supercomputing
+HPE aims for the market with faster, more cost-effective HPC storage to combat rising costs 
+https://www.theregister.com/storage/2026/11/13/hpe-debuts-hybrid-storage-configs-rising-ssd-costs-hit-supercomputing/5309679
+
+Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident
+https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html
+
+This year’s bug count just passed 100K
+‘We don’t have a security problem anymore. We have a data problem now’ 
+https://www.theregister.com/security/2026/11/13/this-years-bug-count-just-passed-100k/5309882
+
+----------------------------------------------
+
+13.11.2026
+
+Microsoft Outlook Goes Down Nationwide [UPDATE] 
+https://tech.slashdot.org/story/26/11/12/1959220/microsoft-outlook-goes-down-nationwide-update
+https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-20-hours-as-its-fixes-keep-failing/5309609
+
+Microsoft outage gives customers a crash course in dependence on Redmond
+Rivals offer sympathy for stranded admins – and a reminder that putting all your eggs in one basket has consequences 
+https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805
+
+PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE
+https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html
+
+Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely 
+https://apache.slashdot.org/story/26/11/12/073240/critical-apache-http2-flaw-could-let-unauthenticated-attackers-execute-code-remotely
+https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html
+
+OpenAI launches security products, tells orgs they’re doomed if they don’t use them
+Meanwhile, a group of nonprofits sue AI giants and cite AI-driven cyberattacks 
+https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500
+
+Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry
+https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html
+
+C++26 stumbles at finish line over Contracts dispute
+ISO working group faces a fight over runtime checks, complexity, and the language's release timetable 
+https://www.theregister.com/devops/2026/11/13/c26-stumbles-at-finish-line-over-contracts-dispute/5309526
+
+Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data
+https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html
+
+New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access
+https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html
+
+Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories
+https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html
+
+186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers
+https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html
+
+Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs
+https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html
+
+Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files
+https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html
+
+Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign
+https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html
+
+Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover
+https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html
+
+New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs
+https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html
+
+Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass
+https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html
+
+PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution
+https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html
+
+ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories
+https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html
+
+Power Grids On 5 Continents Pulse Every 60s. Scientists Think They Know Why
+https://hardware.slashdot.org/story/26/11/11/2347221/power-grids-on-5-continents-pulse-every-60s-scientists-think-they-know-why
+
+FAA Expands AI Advice to Manage Air Traffic Congestion Across Entire US Airspace
+https://slashdot.org/story/26/11/13/027258/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace
+
+Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases
+https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html
+-------------------------------------------------------
+
+11.11.2026
+
+November Patch Tuesday boasts over 1,000 bugs but only one zero-day so far
+Microsoft admins wail and gnash their teeth 
+https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-but-only-one-zero-day-so-far/5308946
+
+Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes
+https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html
+
+Microsoft's Patch Tuesday can't break stuff if it won't install
+KB5132061 throws 0x800F0993 and 0x800F0989 errors, and Redmond is saying nothing 
+https://www.theregister.com/os-platforms/2026/11/11/microsofts-patch-tuesday-cant-break-stuff-if-it-wont-install/5309059
+
+Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones
+https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html
+
+Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation
+https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html
+
+Apple's touchscreen MacBook Pro does not like to be taken apart
+Easy lid swaps earn praise from iFixit, but panel removal ends in cracks and USB-C repairs require logic board surgery 
+https://www.theregister.com/personal-tech/2026/11/11/apples-touchscreen-macbook-pro-does-not-like-to-be-taken-apart/5309110
+
+Apple tells its Support Community to STFU
+User-to-user forum goes read-only ahead of November 20 closure, with archive's fate unclear 
+https://www.theregister.com/personal-tech/2026/11/11/apple-tells-its-support-community-to-stfu/5309090
+https://apple.slashdot.org/story/26/11/11/1655250/apple-is-killing-its-support-community-forum-next-week
+
+AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets
+https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html
+
+Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords
+https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html
+
+eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise
+https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html
+
+Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits
+https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html
+https://www.qlik.com/us
+
+Barracuda’s email security gateways bitten by make-me-root vulns
+Someone's fishing for exposed devices 
+https://www.theregister.com/security/2026/11/10/barracudas-email-security-gateways-bitten-by-make-me-root-vulns/5308883
+
+Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges
+https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html
+https://railway.com/
+
+Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available
+https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/
+
+Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches
+https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html
+
+Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons
+https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html
+
+Google gooses Python AI performance by... removing Python
+Newly open sourced XSE handles six million queries a second across services including Search, Ads, and YouTube Shorts 
+https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995
+
+VMware floats new standard to make sure apps don’t break in hybrid K8s environments
+Virtzilla also taking on KubeVirt by sharing VM API with the CNCF 
+https://www.theregister.com/virtualization/2026/11/10/vmware-floats-new-standard-to-make-sure-apps-dont-break-in-hybrid-k8s-environments/5308956
+
+To thwart reverse engineering by agents, dev proposes blinding them
+A poke in the AI with a sharp stick 
+https://www.theregister.com/ai-and-ml/2026/11/10/to-thwart-reverse-engineering-by-agents-dev-proposes-blinding-them/5308897
+
+Anthropic Launches New Workplace Features To Take On Microsoft and Google
+https://tech.slashdot.org/story/26/11/10/2023200/anthropic-launches-new-workplace-features-to-take-on-microsoft-and-google
+https://www.theregister.com/software/2026/11/10/anthropic-tiptoes-into-ms-office-territory/5308988
+
+Blender 5.3 Released With Nvidia DLSS 4.5 Ray Reconstruction, Vulkan Default
+https://tech.slashdot.org/story/26/11/10/178254/blender-53-released-with-nvidia-dlss-45-ray-reconstruction-vulkan-default
+
+Starlink Mini 2 Adds a Swappable Battery, Wi-Fi 6 
+https://tech.slashdot.org/story/26/11/10/208239/starlink-mini-2-adds-a-swappable-battery-wi-fi-6
+
+Fireworks AI Confirms Wider Breach Affecting Notion AI Chats
+https://it.slashdot.org/story/26/11/10/2156247/fireworks-ai-confirms-wider-breach-affecting-notion-ai-chats
+
+Google Fi Brings Back Network Switching With 'Secondary' Partner
+https://mobile.slashdot.org/story/26/11/10/2221238/google-fi-brings-back-network-switching-with-secondary-partner
+
+Ring robots ready to patrol paranoids’ pads
+Amazon calls its home security drone and business patrol bot 'proactive protection' 
+https://www.theregister.com/offbeat/2026/11/10/ring-robots-ready-to-patrol-paranoids-pads/5308932
+https://hardware.slashdot.org/story/26/11/11/0144217/amazons-ring-unveils-flying-drone-and-robot-to-patrol-homes-and-businesses
+
+-----------------------------------------
+
+10.11.2026
+
+Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities
+https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html
+
+Cisco to link all future products to its SaaS-y Cloud Control management tool
+Global rollout of unified portal finally happening in 2027 
+https://www.theregister.com/networks/2026/11/10/cisco-to-link-all-future-products-to-its-saas-y-cloud-control-management-tool/5308660
+
+Anthropic's super bug-finding Mythos model is going into Cisco and IBM products
+Enterprise security tools will offer its capabilities without handing customers the model itself 
+https://www.theregister.com/ai-and-ml/2026/11/10/anthropics-super-bug-finding-mythos-model-is-going-into-cisco-and-ibm-products/5308616
+
+Chrome zero-day whack-a-mole continues as 2026 tally hits 8
+Another Chrome memory bug gets squashed, but not before attackers got their hands on it 
+https://www.theregister.com/security/2026/11/10/chrome-zero-day-whack-a-mole-continues-as-2026-tally-hits-8/5308732
+https://thehackernews.com/2026/11/google-issues-chrome-security-update.html
+
+New WhatsApp head wants to make the app easier to use, give its AI more chops
+https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/
+
+Boston Dynamics Adds Wheels to Atlas Humanoid
+https://hardware.slashdot.org/story/26/11/09/2317206/boston-dynamics-adds-wheels-to-atlas-humanoid
+
+Microsoft teaches schools that free email was just a phase
+Office 365 A1 and Student Use Benefit face retirement, leaving institutions to budget for paid replacements at renewal 
+https://www.theregister.com/saas/2026/11/10/microsoft-teaches-schools-that-free-email-was-just-a-phase/5308371
+
+Microsoft is giving Claude the keys to UK Copilot tenants by default
+Admins have until December 9 to review access settings as Anthropic processes data in the US 
+https://www.theregister.com/ai-and-ml/2026/11/10/microsoft-is-giving-claude-the-keys-to-uk-copilot-tenants-by-default/5308693
+
+Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed
+https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html
+
+N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits
+https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html
+https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/
+
+CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws
+https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html
+
+Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark
+https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html
+
+Google broadens its AI hardware portfolio with two new specialized chips
+https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/
+
+Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data
+https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html
+
+Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor
+https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html
+
+Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware
+https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html
+
+Google DeepMind melds humans and AI agents to vet Signal's secure messaging techniques
+Post-quantum handshake and Triple Ratchet get a formal security check 
+https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625
+
+Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights
+https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html
+
+Ransomware threat blares from Vanderbilt University computers during cyberattack
+BYOD claims extensive data theft as campus Wi-Fi returns, most systems remain restricted, and classes carry on 
+https://www.theregister.com/cyber-crime/2026/11/10/ransomware-threat-blares-from-vanderbilt-university-computers-during-cyberattack/5308687
+--------------------------------------------------
+
+09.11.2026
+
+Outlook.com bounces legit emails as Microsoft's authentication crackdown goes sideways 
+Missing DMARC or wobbly SPF means your mail may be treated as suspicious 
+https://www.theregister.com/applications/2026/11/09/outlookcom-bounces-legit-emails-as-microsofts-authentication-crackdown-goes-sideways/5308428
+
+Linus Torvalds sees signs AI-prompted patch flood has peaked
+Fixes are arriving faster than new bug reports for one major Linux project 
+https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345
+
+Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot
+https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html
+
+AlmaLinux Shows Advantages of ABI Compatibility After RHEL Restricted Source Code Access
+https://linux.slashdot.org/story/26/11/07/0330255/almalinux-shows-advantages-of-abi-compatibility-after-rhel-restricted-source-code-access
+
+Asahi Linux Drops MIT and Goes Full GPL After Spotting LLM-Assisted License Laundering
+https://news.slashdot.org/story/26/11/09/0440238/asahi-linux-drops-mit-and-goes-full-gpl-after-spotting-llm-assisted-license-laundering
+
+AlpineBSD Announced - an AI-free FOSS OS
+https://bsd.slashdot.org/story/26/11/08/0044219/alpinebsd-announced---an-ai-free-foss-os
+
+Microsoft's Azure Linux gets 470-plus security fixes in one almighty patching session
+A mountain of CVEs, a certificate cleanup, and yet more work for Microsoft's patching teams 
+https://www.theregister.com/security/2026/11/09/microsofts-azure-linux-gets-470-plus-security-fixes-in-one-almighty-patching-session/5308434
+
+Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It
+https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html
+
+Can CrowdStrike's New 'AI Kill Switch' Shut Down Rogue AI Agents? 
+https://it.slashdot.org/story/26/11/09/0020217/can-crowdstrikes-new-ai-kill-switch-shut-down-rogue-ai-agents
+
+OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits
+https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html
+
+Python's CVEs Triple. Anthropic Funds a New Security Developer
+https://developers.slashdot.org/story/26/11/08/0558256/pythons-cves-triple-anthropic-funds-a-new-security-developer
+
+Microsoft takes three decades to make Sticky Keys less sticky
+Windows preview adds a 'don't ask again' option to accessibility prompts, sparing users a trip through Settings 
+https://www.theregister.com/os-platforms/2026/11/09/microsoft-takes-three-decades-to-make-sticky-keys-less-sticky/5308491
+
+Memory crunch makes refurbished kit look a lot less secondhand
+Soaring component costs and warranties of up to three years give buyers more reason to consider pre-loved hardware 
+https://www.theregister.com/on-prem/2026/11/09/memory-crunch-makes-refurbished-kit-look-a-lot-less-secondhand/5307758
+
+Huawei says it’s made a 100 percent Chinese PC
+PLUS: Japan declares infosec emergency; Apple makes biggest school Mac sale, ever, anywhere, in the Philippines; And more! 
+https://www.theregister.com/systems/2026/11/09/huawei-says-its-made-a-100-percent-chinese-pc/5308335
+
+Microsoft Removes PC-to-PC Migration from Windows 11, Points Users to OneDrive-Based Backup
+https://tech.slashdot.org/story/26/11/07/2333220/microsoft-removes-pc-to-pc-migration-from-windows-11-points-users-to-onedrive-based-backup
+
+Japanese homeware giant pulls online store after cloud breach puts 7.7M records at risk
+No reopening date as orders face delays and some customers are told to refuse deliveries to cancel purchases 
+https://www.theregister.com/cyber-crime/2026/11/09/japanese-homeware-giant-pulls-online-store-after-cloud-breach-puts-77m-records-at-risk/5308377
+
+Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars
+https://thehackernews.com/2026/11/default-adminadmin-server-password.html
+
+Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety
+https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html
+
+Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More
+https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html
+
+CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation
+https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html
+
+LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks
+https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html
+
+Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time
+https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html
+
+Norwegians Release FOSS GNOME Software for Music Recording, Internet Radio, and Cameras
+https://entertainment.slashdot.org/story/26/11/08/039242/norwegians-release-foss-gnome-software-for-music-recording-internet-radio-and-cameras
+
+Chainalysis Says Breach Exposed Credentials For All Customers 
+https://it.slashdot.org/story/26/11/06/2156257/chainalysis-says-breach-exposed-credentials-for-all-customers
+
+Claude Code's 'Don't Ask Again' File Exposes Passwords and Keys in 1,122 Public Copies on GitHub
+https://it.slashdot.org/story/26/11/08/1758242/claude-codes-dont-ask-again-file-exposes-passwords-and-keys-in-1122-public-copies-on-github
+https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html
+
+--------------------------------------------
+
+05.11.2026
+
+Microsoft fixed Excel 2016 copy-paste bug. Then reintroduced it. Now it's fixed again
+All of this has happened before. All of this will happen again. Maybe 
+https://www.theregister.com/software/2026/11/05/microsoft-fixed-excel-2016-copy-paste-bug-then-reintroduced-it-now-its-fixed-again/5307782
+
+OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux
+https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html
+
+Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root
+https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html
+
+Fedora 45 is finally finished and fit
+After two last-minute delays, it's here and running – albeit with a kernel series already at upstream end of life 
+https://www.theregister.com/os-platforms/2026/11/04/fedora-45-is-finally-finished-and-fit/5307631
+
+OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run
+https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html
+
+Apple turns iCloud into spy cloud, will start looking at public share links
+Content shared with anyone who has the URL will be scanned for 'harmful content,' though the iMaker hasn't defined that term 
+https://www.theregister.com/security/2026/11/04/apple-turns-icloud-into-spy-cloud-will-start-looking-at-public-share-links/5307681
+
+Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction
+https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html
+
+Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution
+https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html
+
+Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory
+https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html
+
+Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says
+https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html
+
+Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads
+https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html
+
+SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records
+https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html
+
+When datacenters lose power, generators should kick in. That didn’t happen for Google in London
+October outage caused by bad PLC config exposed at a time maintenance work reduced resilience
+https://www.theregister.com/off-prem/2026/11/05/when-datacenters-lose-power-generators-should-kick-in-that-didnt-happen-for-google-in-london/5307739
+
+Microsoft admits certifications can be a drag, launches creds that recognize skills
+‘Pro Badges’ don’t require a test, Microsoft awards them by watching you use GitHub 
+https://www.theregister.com/software/2026/11/05/microsoft-admits-certifications-can-be-a-drag-launches-creds-that-recognize-skills/5307725
+
+mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity
+https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html
+
+APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits
+https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html
+
+Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes
+https://thehackernews.com/2026/11/chainstack-reports-production-systems.html
+
+Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft
+https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html
+
+CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades
+https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html
+
+China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor
+https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html
+
+Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access
+https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html
+
+ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories
+https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html
+
+Apple is reportedly cutting budgets for its internal AI usage
+https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/
+
+VMware quietly offers European users extended sales and support for low-end vSphere
+Version 8 of Standard and Enterprise Plus will stay alive until October 2028 
+https://www.theregister.com/virtualization/2026/11/05/vmware-quietly-offers-european-users-extended-sales-and-support-for-low-end-vsphere/5307732
+
+OpenAI releases GPT-6 Cyber, and promises this one stays within 'rules of engagement'
+The latest bug hunting model 'avoided exploiting out-of-scope services over 99 percent of the time', claims House of Altman 
+https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855
+
+Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit
+https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html
+
+Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction
+https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html
+
+----------------------------------------------
+
+03.11.2026
+
+Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing
+https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html
+
+Announcing Fedora Linux 45
+https://fedoramagazine.org/announcing-fedora-linux-45/
+
+Apple's Mac business is booming, but the memory market has other plans
+New CEO John Ternus toasts record sales as soaring RAM costs threaten supplies and squeeze margins 
+https://www.theregister.com/personal-tech/2026/11/03/apples-mac-business-is-booming-but-the-memory-market-has-other-plans/5307188
+https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/
+
+Cops bust botnet of 1.3M infected Android TV boxes
+Videostrong accused of shipping devices with a backdoor baked in 
+https://www.theregister.com/cyber-crime/2026/11/02/cops-bust-botnet-of-13m-infected-android-tv-boxes/5307045
+https://it.slashdot.org/story/26/11/03/0558219/cops-bust-botnet-of-13-million-android-tv-boxes
+GC: see https://thehackernews.com/2026/11/google-disrupts-13-million-device.html
+
+Architect creates open source replacement for VM migration tool VMware has hidden
+OpenVDDK is reportedly already being used in production, at scale 
+https://www.theregister.com/virtualization/2026/11/03/architect-creates-open-source-replacement-for-vm-migration-tool-vmware-has-hidden/5307124
+
+Broadcom denied names of cloud providers backing VMware merger challenge
+EU court's confidentiality ruling clears a procedural hurdle, not the merits of CISPE's case against Commission approval 
+https://www.theregister.com/virtualization/2026/11/03/broadcom-denied-names-of-cloud-providers-backing-vmware-merger-challenge/5307178
+
+Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw
+https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html
+
+cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes
+https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html
+
+Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets
+https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html
+
+Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials
+https://thehackernews.com/2026/11/attackers-target-unpatched.html
+
+Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More
+https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html
+
+Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors
+https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html
+
+Raspberry Pi hikes prices again, barely a month after the last round
+Memory crunch pushes 16GB Pi 5 to $385, more than triple its launch price, just a month after the last round of hikes 
+https://www.theregister.com/personal-tech/2026/11/03/raspberry-pi-hikes-prices-again-barely-a-month-after-the-last-round/5307004
+
+Study Claims Vizio Simply Ignores 'Smart' TV Spying Opt Out Requests 
+https://entertainment.slashdot.org/story/26/11/02/2043259/study-claims-vizio-simply-ignores-smart-tv-spying-opt-out-requests
+
+Microsoft's Canada timezone troubles leave admins fixing calendars, pretending they're in Bogota
+Canadian regions stop turning back the clocks, Microsoft wishes it could 
+https://www.theregister.com/software/2026/11/02/microsofts-canada-timezone-troubles-leave-admins-fixing-calendars-pretending-theyre-in-bogota/5306934
+https://news.slashdot.org/story/26/11/02/1538237/microsofts-canada-timezone-troubles-leave-admins-fixing-calendars-pretending-theyre-in-bogota
+
+-------------------------------------------
+
+02.11.2026
+
+SUSE to cut one in ten employees because of... AI
+'Modern tooling is already changing our daily workflows' says CEO at open source biz 
+https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950
+
+Linus Torvalds says Linux kernel is out of 'stabilization phase' and using 'much healthier model' for AI contributions
+Yet machine-made patches ‘often get rewritten’ 
+https://www.theregister.com/os-platforms/2026/11/01/linus-torvalds-says-linux-kernel-is-out-of-stabilization-phase-and-using-much-healthier-model-for-ai-contributions/5306852
+https://linux.slashdot.org/story/26/11/01/2012246/ai-makes-linux-74-merge-window-the-largest-in-kernel-history
+
+Rocky Linux Creator Built a New 'Not Linux' Kernel in 11 Days Using AI
+https://tech.slashdot.org/story/26/11/02/0317207/rocky-linux-creator-built-a-new-not-linux-kernel-in-11-days-using-ai
+A Rust-first x86-64 operating system built around native domains and Linux userspace compatibility.
+https://github.com/gmkurtzer/ginux
+
+SystemD's Creator Opens Signups for Private Preview of Amutable's Cryptographically Verified Linux Systems 
+https://tech.slashdot.org/story/26/11/01/229250/systemds-creator-opens-signups-for-private-preview-of-amutables-cryptographically-verified-linux-systems
+
+Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%
+https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html
+
+Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data
+https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html
+
+Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data
+https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html
+
+Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts
+https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html
+
+Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access
+https://thehackernews.com/2026/11/google-disrupts-13-million-device.html
+
+Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access
+https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html
+
+CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key
+https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html
+
+Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers
+https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html
+
+New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value
+https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html
+
+A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats
+https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html
+
+Stack Overflow: 'Reports of Our Death are Greatly Exaggerated' 
+https://developers.slashdot.org/story/26/11/02/0026255/stack-overflow-reports-of-our-death-are-greatly-exaggerated
+
+Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script
+https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html
+
+Token thieves costing companies $100K+ per day in illicit LLM charges
+Don't let the LLMjackers hit you 
+https://www.theregister.com/security/2026/11/02/token-thieves-costing-companies-100k-per-day-in-illicit-llm-charges/5306967
+
+------------------------------------------------------
+
+30.10.2026
+
+Proton CEO Is In 'Full AI Psychosis' 
+https://slashdot.org/story/26/10/30/0126236/proton-ceo-is-in-full-ai-psychosis
+
+Topcoat enables Rust to render server-side web apps
+Rust guru rejiggers web app reactivity for potentially speedier page loading 
+https://www.theregister.com/devops/2026/10/29/topcoat-enables-rust-to-render-server-side-web-apps/5306470
+
+AlpineBSD announced – an AI-free FOSS OS
+Combining the NetBSD kernel with the Alpine Linux userland 
+https://www.theregister.com/os-platforms/2026/10/30/alpinebsd-announced-an-ai-free-foss-os/5306589
+
+Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw
+https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html
+
+Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched
+Embedded browsers are at the heart of the problem 
+https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508
+
+Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor
+https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html
+
+TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them
+https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html
+
+Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis
+https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html
+
+WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours
+https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html
+
+Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen
+https://thehackernews.com/2026/10/binance-suffers-security-breach.html
+
+CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV
+https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html
+
+ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories
+https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html
+
+PC chip plunge wipes out a quarter of Intel’s value
+CEO predicts massive datacenter CPU boom, coming soon, but production problems mean Chipzilla may not cash in 
+https://www.theregister.com/systems/2026/10/30/pc-chip-plunge-wipes-out-a-quarter-of-intels-value/5306531
+
+------------------------------------------------
+
+29.10.2026
+
+Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions
+https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html
+
+Apple Announces Its First Touchscreen MacBook Pro 
+https://hardware.slashdot.org/story/26/10/28/1732233/apple-announces-its-first-touchscreen-macbook-pro
+https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/
+
+Microsoft breaks New Outlook attachment opening with Edge Update
+Attachments in New Outlook come undone thanks to Windows' fundamental interconnectedness of things 
+https://www.theregister.com/personal-tech/2026/10/29/microsoft-breaks-new-outlook-attachment-opening-with-edge-update/5306224
+
+Amazon Finds 'Tokenmaxxing' Lacks Productivity Gains
+https://tech.slashdot.org/story/26/10/28/1816223/amazon-finds-tokenmaxxing-lacks-productivity-gains
+https://www.theregister.com/ai-and-ml/2026/10/28/amazon-tells-tokenmaxxing-devs-to-slow-their-ai-roll/5306090
+
+Google Begins Certifying Registered App Stores For Android
+https://tech.slashdot.org/story/26/10/28/0313217/google-begins-certifying-registered-app-stores-for-android
+https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html
+
+Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion
+https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/
+
+LibreOffice's 'no AI' stance meets LLM-assisted code
+Core developers avoid AI coding assistants, while community contributors face disclosure and review rules 
+https://www.theregister.com/ai-and-ml/2026/10/29/libreoffices-no-ai-stance-meets-llm-assisted-code/5306084
+
+Systemd adds support for Rust
+What's even better than Rust in the Linux kernel? Rust in systemd! 
+https://www.theregister.com/os-platforms/2026/10/29/systemd-adds-support-for-rust/5306264
+
+Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open
+https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html
+
+Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls
+https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html
+
+EMACS Turns 50
+https://news.slashdot.org/story/26/10/28/1541214/emacs-turns-50
+
+Attackers turn GitHub issues into supply chain campaign against 61 public repos in less than an hour
+'The workflow automatically is triggered within a second, and if the workflow is indeed vulnerable, then the attack is executed successfully' 
+https://www.theregister.com/security/2026/10/29/attackers-turn-github-issues-into-supply-chain-campaign-against-61-public-repos-in-less-than-an-hour/5306153
+
+GitHub Launches npm Firewall to Block Malicious Packages Before Installation
+https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html
+
+PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network
+https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html
+
+Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys
+https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html
+
+26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories
+https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html
+
+Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win
+https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html
+
+Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch
+https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html
+
+Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns
+https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html
+
+China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility
+https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html
+
+Tape is so not dead that Fujifilm will increase production capacity 5x
+Because, sigh, AI 
+https://www.theregister.com/storage/2026/10/29/tape-is-so-not-dead-that-fujifilm-will-increase-production-capacity-5x/5306189
+
+Oracle wants to bill you for every AI task, not just every seat 
+Big Red says AI units will add to subscriptions, as it juggles $90BN-plus capex, mounting debt and a $225BN revenue goal for 2030 
+https://www.theregister.com/applications/2026/10/29/oracle-wants-to-bill-you-for-every-ai-task-not-just-every-seat/5306403
+
+Google struggling to make AI Mode searches pay
+That’s a problem, cos it just spent $51 billion on infrastructure and still needs to rent compute from others to run its cloud 
+https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181
+https://tech.slashdot.org/story/26/10/29/0444201/google-struggling-to-make-ai-mode-searches-pay
+
+Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities
+https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html
+
+Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners
+https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html
+
+The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers
+https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html
+
+Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls
+https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html
+
+Bank of America Kindly Asks That You Don't Share Your Password With Your AI Assistant
+https://yro.slashdot.org/story/26/10/28/2247205/bank-of-america-kindly-asks-that-you-dont-share-your-password-with-your-ai-assistant
+
+-------------------------------------------------------
+
+27.10.2026
+
+Microsoft releases out-of-band Windows fixes with certificate updates
+Did you hear the one about eMudhra and the power of 4? Time to get connected to certificate trust list updates 
+https://www.theregister.com/security/2026/10/27/microsoft-releases-out-of-band-windows-fixes-with-certificate-updates/5305637
+
+Apple rolls out iOS 27.2 with new Siri AI languages and security fixes
+https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/
+
+AI-Generated Fake Login Pages Are Making Account Takeovers Easier
+https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html
+
+PHP2Shell Security Flaws Now Successfully Exploited 
+https://yro.slashdot.org/story/26/10/26/2150206/php2shell-security-flaws-now-successfully-exploited
+https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html
+https://www.theregister.com/cyber-crime/2026/10/27/cisa-confirms-php2shell-under-attack-as-researchers-clock-successful-exploits/5305681
+
+Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads
+https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html
+
+Apple's foldable phone has a crease in its reputation
+Admits a 'small number' of iPhone Duos have display problems, and no, you're not folding it wrong.  
+https://www.theregister.com/personal-tech/2026/10/27/apples-foldable-phone-has-a-crease-in-its-reputation/5305669
+
+Apple unveils new 14-inch MacBook Pro with M6 chip
+https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/
+
+IBM admits mainframes need to be modernized and will use AI to do the job
+Promises to build ‘IBM Z Atlas’ tool that will tidy up messy big iron and enable AIOps 
+https://www.theregister.com/systems/2026/10/27/ibm-admits-mainframes-need-to-be-modernized-and-will-use-ai-to-do-the-job/5305618
+
+ZacOS 9 and Mavernix: Two classic Apple desktops find their Wayland to Linux
+Classic Platinum or lickable Mavericks-era Aqua – it's your choice 
+https://www.theregister.com/os-platforms/2026/10/27/zacos-9-and-mavernix-two-classic-apple-desktops-find-their-wayland-to-linux/5305710
+
+Highway Thieves Are Spoofing GPS To Steal Millions In Data Center-Bound Cargo
+https://yro.slashdot.org/story/26/10/26/1759233/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo
+
+Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento
+https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html
+
+Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens
+https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html
+
+Apple Updates the iPad Mini With a Larger OLED Display
+https://apple.slashdot.org/story/26/10/26/1549226/apple-updates-the-ipad-mini-with-a-larger-oled-display
+GC: see https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/
+
+Microsoft Offers Mass Buyouts For Roughly a Quarter of Its Workforce 
+https://slashdot.org/story/26/10/26/1544243/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce
+https://www.theregister.com/cxo/2026/10/26/microsoft-offers-parachutes-to-60k-employees-if-they-jump-by-the-end-of-the-year/5305538
+
+snooping on contractors
+Noyb files five complaints in four member states over alleged tracking of workers on Scale AI's Outlier platform 
+https://www.theregister.com/legal/2026/10/27/eu-privacy-advocates-accuse-us-data-annotation-firm-of-snooping-on-contractors/5305757
+
+Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses
+https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html
+
+GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption
+https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html
+
+Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption
+https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html
+
+OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections
+https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html
+
+Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers
+https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html
+
+Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key
+https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html
+
+---------------------------------------------
+
+26.10.2026
+
+PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity
+https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html
+
+Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs
+https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html
+
+Work to protect DNS from quantum decryption attacks is speeding up
+PLUS: Regional internet registry reform nears; Trustworthy-sounding domains attract scammers 
+https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274
+
+Systemd Merges Support for Rust Programs 
+https://linux.slashdot.org/story/26/10/25/2227243/systemd-merges-support-for-rust-programs
+
+Microsoft Announces Open Source Tool Evaluating Your Software's Optimization For AI Coding Agents 
+https://news.slashdot.org/story/26/10/26/0420240/microsoft-announces-open-source-tool-evaluating-your-softwares-optimization-for-ai-coding-agents
+
+A Newly Proposed Linux Filesystem Can Fix Corrupted Data 
+https://linux.slashdot.org/story/26/10/25/2153202/a-newly-proposed-linux-filesystem-can-fix-corrupted-data
+
+Tesco replacing VMware with Proxmox in its stores and on the edge
+Advertises for someone to ‘own cost-effective alternative virtualisation platform’ 
+https://www.theregister.com/virtualization/2026/10/26/tesco-replacing-vmware-with-proxmox-in-its-stores-and-on-the-edge/5305281
+
+Microsoft offers buyouts to around 60,000 employees, reports say
+https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/
+
+Apple unveils new iPad mini with OLED display and faster A20 Pro chip
+https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/
+
+Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware
+https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html
+
+Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware
+https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html
+
+Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes
+https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html
+
+Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers
+https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html
+
+uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts
+https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html
+
+Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More
+https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html
+
+AI delivers ‘zero financial payoff’ to most companies, Apollo economist says
+https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/
+https://slashdot.org/story/26/10/25/2040212/ai-delivers-zero-financial-payoff-to-most-companies-economist-says
+https://www.theregister.com/ai-and-ml/2026/10/26/private-equity-giant-ai-payoff-strictly-limited-to-big-tech/5305358
+
+Euro open source specialist proposes LLM gateway to ease token bills
+Aiven hopes to do for LLMs what it does for databases 
+https://www.theregister.com/ai-and-ml/2026/10/26/euro-open-source-specialist-proposes-llm-gateway-to-ease-token-bills/5305170
+
+-------------------------------------------------
+
 24.10.2026
 
 PHP-ocalypse: How two critical web bugs almost broke the internet
