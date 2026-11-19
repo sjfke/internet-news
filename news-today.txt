@@ -1,3 +1,59 @@
+19.11.2026
+
+10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers
+https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html
+https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887
+
+F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE
+https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html
+
+PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution
+https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html
+https://www.theregister.com/patches/2026/11/18/another-critical-php-security-release-has-dropped/5310911
+https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html
+
+'Java4Shell' Flaw Exposes OpenJDK to RCE via Base64 
+https://developers.slashdot.org/story/26/11/18/1931246/java4shell-flaw-exposes-openjdk-to-rce-via-base64
+
+Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE
+https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html
+
+Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites
+https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html
+
+Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication
+https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html
+
+Microsoft To Do will soon become Microsoft Done
+Apps retire in June 2027, with no automatic task migration and no Planner replacement for personal accounts 
+https://www.theregister.com/personal-tech/2026/11/19/microsoft-to-do-will-soon-become-microsoft-done/5310973
+
+Google’s AI feature in Search gets its own incognito mode
+https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/
+
+Microsoft CEO Satya Nadella explains why he asked 60K employees to quit
+https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/
+
+Microsoft's official Python agent framework hijacked to distribute malware
+In today's how-could-things-get-worse-for-Microsoft news, it seems someone's GitHub org admin creds have been compromised
+https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858
+GC: see https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html
+
+Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions
+https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html
+
+Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle
+https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html
+
+Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required
+https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html
+
+European Commission scrambles to contain AI-assisted cyberattack
+Staff HR and medical reimbursement systems taken offline as officials investigate whether personal data was compromised 
+https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103
+
+-----------------------------------------------------------
+
 18.11.2026
 
 Optimizely Hack Turns World's Biggest Websites Into Malware Dispensers
