@@ -1,3 +1,88 @@
+20.11.2026
+
+Microsoft's last non-security preview of 2026 packs a punch
+Windows Search gets a makeover, while Hello lights up dim rooms 
+https://www.theregister.com/os-platforms/2026/11/20/microsofts-last-non-security-preview-of-2026-packs-a-punch/5311300
+
+PHP Readies Critical Security Updates to Patch Another RCE Flaw
+https://developers.slashdot.org/story/26/11/19/2049222/php-readies-critical-security-updates-to-patch-another-rce-flaw
+https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html
+
+phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution
+https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html
+
+Google Is Putting AI Chats Right On the Homepage
+https://tech.slashdot.org/story/26/11/20/0138234/google-is-putting-ai-chats-right-on-the-homepage
+
+Windows 11 passkey bug cries failure after successful sign-in
+Optional update fixes misleading Android error for versions 25H2 and 26H2 
+https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263
+
+Microsoft suggests Registry hack to work around hotpatch woes
+App problems in Windows after default hotpatching? Who could have foreseen that? 
+https://www.theregister.com/os-platforms/2026/11/20/microsoft-suggests-registry-hack-to-work-around-hotpatch-woes/5311279
+
+New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It
+https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html
+
+Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts
+https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html
+
+Nvidia adds possible hack to list of very bad things under investigation
+Ransomware group sets a deadline for the chipmaker to pay up - or see its data leaked 
+https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153
+
+Microsoft Testing Remote Lock For Lost Or Stolen Windows Devices
+https://mobile.slashdot.org/story/26/11/19/0058259/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices
+
+Google Will Launch Android App Verification Requirement Globally In January 2027 
+https://tech.slashdot.org/story/26/11/19/1940232/google-will-launch-android-app-verification-requirement-globally-in-january-2027
+
+Flaws in VMware and KVM need attention, if you have time while fixing Java, PHP, and everything else
+Critical Virtzilla bugs allow authentication bypass, as a nested virtualization issue got Digital Ocean ducking 
+https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193
+https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html
+https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html
+
+Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network
+https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html
+
+ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs 
+https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html
+
+SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws
+https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html
+
+WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams
+https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html
+
+ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories
+https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html
+
+AI boom threatens circuit board crunch to rival pandemic-era chip shortage
+Trade body warns automotive, medical, and defense orders are being crowded out, with relief unlikely before mid-2028 
+https://www.theregister.com/systems/2026/11/20/ai-boom-threatens-circuit-board-crunch-to-rival-pandemic-era-chip-shortage/5311335
+
+Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control
+https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html
+
+JPMorgan, Visa, Mastercard Disclose Cyberattack On Third-Party Vendors
+https://it.slashdot.org/story/26/11/19/2112238/jpmorgan-visa-mastercard-disclose-cyberattack-on-third-party-vendors
+https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175
+
+Nvidia Approaches Arm Boss Rene Haas In Search For New CEO 
+https://slashdot.org/story/26/11/19/2212215/nvidia-approaches-arm-boss-rene-haas-in-search-for-new-ceo
+
+Ubuntu Core Desktop targets 28.04 debut, with default status in its sights
+Canonical's stretch goal is to make the immutable OS standard in 30.04 – without retiring the traditional distro 
+https://www.theregister.com/os-platforms/2026/11/20/ubuntu-core-desktop-targets-2804-debut-with-default-status-in-its-sights/5310837
+
+AI could open wallets where ERP upgrade pitches can't, says PwC
+Consultancy argues a 'clean core' makes agents easier to deploy – but Kingfisher is taking a different route 
+https://www.theregister.com/ai-and-ml/2026/11/20/ai-could-open-wallets-where-erp-upgrade-pitches-cant-says-pwc/5311221
+
+----------------------------------------------------
+
 19.11.2026
 
 10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers
