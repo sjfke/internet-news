@@ -1,3 +1,88 @@
+23.11.2026
+
+Python Devs Document 'De-fanging Dangerous Triggers In GitHub Actions' 
+https://it.slashdot.org/story/26/11/22/0625233/python-devs-document-de-fanging-dangerous-triggers-in-github-actions
+https://alpha-omega.dev/blog/de-fanging-dangerous-triggers-in-github-actions-across-an-organization/
+
+Microsoft mega outage: Report reveals testing gaps and emails that never arrived
+July bug overwhelmed newer servers, prompting promises of stronger safeguards and faster recovery 
+https://www.theregister.com/saas/2026/11/23/microsoft-mega-outage-report-reveals-testing-gaps-and-emails-that-never-arrived/5311656
+
+New Outlook's attachment issues sent users into the arms of its predecessor
+Microsoft recommended Classic or the web client while two rounds of fixes restored normal service 
+https://www.theregister.com/saas/2026/11/23/new-outlooks-attachment-issues-sent-users-into-the-arms-of-its-predecessor/5311576
+
+GrapheneOS Accuses Google of Kneecapping Its Android Partners Using Pixel Exclusives 
+https://mobile.slashdot.org/story/26/11/23/063242/grapheneos-accuses-google-of-kneecapping-its-android-partners-using-pixel-exclusives
+
+Microsoft Admits Some Emails Bounced During Global Outlook Outage, Reveals New Failures 
+https://tech.slashdot.org/story/26/11/22/1949204/microsoft-admits-some-emails-bounced-during-global-outlook-outage-reveals-new-failures
+
+PHP 8.6: Things are gonna get a lot more strict around here
+Like a parent disciplining a misbehaving child, PHP’s annual update clamps down on loose default behaviors to curb malicious hacker horseplay. 
+https://www.theregister.com/devops/2026/11/20/php-86-things-are-gonna-get-a-lot-more-strict-around-here/5311486
+
+Visa, Mastercard theft included info useful for phishing, but not draining bank accounts, say researchers
+No financial details, but plenty of other clues 
+https://www.theregister.com/cyber-crime/2026/11/20/visa-mastercard-theft-included-info-useful-for-phishing-but-not-draining-bank-accounts-say-researchers/5311478
+
+Signal slams door on prying AI agents to protect privacy
+Apple, Google, and Microsoft called out for failing to provide developers with adequate AI agent controls 
+https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466
+https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/
+
+GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys
+https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html
+
+Old-school Linux desktops find fresh routes to Wayland
+Xfce lines up 4.22 for 2027, while MATE gains an Ubuntu-based distro and a compositor of its own 
+https://www.theregister.com/os-platforms/2026/11/23/old-school-linux-desktops-find-fresh-routes-to-wayland/5311349
+
+A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats
+https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html
+
+Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE
+https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html
+
+Norway links energy firm cyberattacks to critical Azure API Management flaw
+Microsoft says mitigation is in place, but admins must investigate possible compromise and rotate secrets 
+https://www.theregister.com/security/2026/11/23/norway-links-energy-firm-cyberattacks-to-critical-azure-api-management-flaw/5311598
+
+Google claims last week’s critical VMware bug was under attack in September
+China-linked ARMORY CASTLE knew about it weeks before it unleashed five custom malware tools targeting vCenter 
+https://www.theregister.com/virtualization/2026/11/23/google-claims-last-weeks-critical-vmware-bug-was-under-attack-in-september/5311547
+https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html
+
+AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms
+https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html
+
+N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation
+https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html
+
+Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps
+https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html
+
+Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions
+https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html
+
+OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms
+https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html
+
+Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices
+https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html
+
+Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble
+https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html
+
+Cleverbridge admits attackers stole customers' credit card and CVV numbers. Yep, you read that right
+Payments platform hasn't disclosed how the data was captured or the scale of the breach 
+https://www.theregister.com/cyber-crime/2026/11/23/cleverbridge-admits-attackers-stole-customers-credit-card-and-cvv-numbers-yep-you-read-that-right/5311573
+
+Americans Enters Post-Penny World, Businesses Now Allowed to Round Cash Transactions to Nearest Nickel 
+https://news.slashdot.org/story/26/11/21/0616258/americans-enters-post-penny-world-businesses-now-allowed-to-round-cash-transactions-to-nearest-nickel
+
+-----------------------------------------------------
+
 20.11.2026
 
 Microsoft's last non-security preview of 2026 packs a punch
